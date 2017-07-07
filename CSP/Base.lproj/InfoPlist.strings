@@ -1,0 +1,15 @@
+/* 
+  InfoPlist.strings
+  CSP
+
+  Created by JasonLu on 17/1/22.
+  Copyright © 2017年 Fugumobile. All rights reserved.
+*/
+"CFBundleDisplayName" = "WeBoxFit";
+NSCameraUsageDescription = "This App requires your permission to use the camera";
+NSLocationAlwaysUsageDescription = "This app needs to use your targeting information, otherwise you will not be able to use the map targeting and other related features";
+NSLocationWhenInUseUsageDescription = "This app needs to use your targeting information, otherwise you will not be able to use the map targeting and other related features";
+NSMicrophoneUsageDescription = "This App needs your permission to use the microphone";
+NSPhotoLibraryUsageDescription = "This App needs your permission to read the media library";
+kTCCServiceMediaLibrary = "This app requires your permission to read the music library";
+NSContactsUsageDescription = "This App needs your permission to read your contacts";

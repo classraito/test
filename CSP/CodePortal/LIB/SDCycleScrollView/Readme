@@ -1,0 +1,69 @@
+头文件的引入：
+#import <SDCycleFramework/SDCycleManager.h>
+
+//网络图片数组
+NSArray *imagesURLStrings = @[
+@"https://ss2.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a4b3d7085dee3d6d2293d48b252b5910/0e2442a7d933c89524cd5cd4d51373f0830200ea.jpg",
+@"https://ss0.baidu.com/-Po3dSag_xI4khGko9WTAnF6hhy/super/whfpf%3D425%2C260%2C50/sign=a41eb338dd33c895a62bcb3bb72e47c2/5fdf8db1cb134954a2192ccb524e9258d1094a1e.jpg",
+@"http://c.hiphotos.baidu.com/image/w%3D400/sign=c2318ff84334970a4773112fa5c8d1c0/b7fd5266d0160924c1fae5ccd60735fae7cd340d.jpg"
+];
+//本地图片
+//    imagesURLStrings = @[@"h1.jpg",
+//                            @"h2.jpg",
+//                            @"h3.jpg",
+//                            @"h4.jpg",
+//                            @"h7" // 本地图片请填写全名
+//                            ];
+
+// 自定义pagecontrol图片
+SDCycleScrollView *cycleScrollView = [[SDCycleManager shareInstance]
+createCycleScollViewWithFrame:CGRectMake(0, 280, w, 180)
+images:imagesURLStrings
+PlaceholderImage:[UIImage imageNamed:@"placeholder"]
+scrollTimeInterval:5.0
+currentPageDotImage:[UIImage imageNamed:@"pageControlCurrentDot"]
+pageDotImage:[UIImage imageNamed:@"pageControlDot"]
+delegate:self];
+
+// 系统自定义pagecontrol
+//    SDCycleScrollView *cycleScrollView = [[SDCycleManager shareInstance]
+//                                          createCycleScollViewWithFrame:CGRectMake(0, 280, w, 180)
+//                                          images:imagesURLStrings
+//                                          PlaceholderImage:[UIImage imageNamed:@"placeholder"]
+//                                          scrollTimeInterval:5.0
+//                                          delegate:self];
+
+//block监听点击方式
+cycleScrollView.clickItemOperationBlock = ^(NSInteger index) {
+NSLog(@">>>>>  %ld", (long)index);
+};
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝回调方法＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+/** 点击图片回调 */
+- (void)cycleScrollView:(SDCycleScrollView *)cycleScrollView didSelectItemAtIndex:(NSInteger)index {
+NSLog(@"index===%lu",index);
+}
+
+/** 图片滚动回调 */
+- (void)cycleScrollView:(SDCycleScrollView *)cycleScrollView didScrollToIndex:(NSInteger)index {
+NSLog(@"index===%lu",index);
+}
+
+
+//
+//  main.m
+//  CSP
+//
+//  Created by Ryan Gong on 16/8/22.
+//  Copyright © 2016年 Fugumobile. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+#import "AppDelegate.h"
+
+int main(int argc, char * argv[]) {
+@autoreleasepool {
+return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
+}
+}

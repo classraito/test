@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9531" systemVersion="15C50" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9529"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="Hbf-py-Mgk" userLabel="datapicker" customClass="FGAreaPickerView">
+            <rect key="frame" x="0.0" y="0.0" width="340" height="220"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="2GY-se-eFR">
+                    <rect key="frame" x="0.0" y="0.0" width="340" height="37"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0vd-AO-Y5c">
+                            <rect key="frame" x="287" y="0.0" width="46" height="37"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="46" id="ycb-Tz-Bn2"/>
+                            </constraints>
+                            <state key="normal" title="完成">
+                                <color key="titleColor" red="0.08235294118" green="0.094117647060000004" blue="0.4039215686" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <connections>
+                                <action selector="buttonAction_done:" destination="Hbf-py-Mgk" eventType="touchUpInside" id="w6a-Oi-nJ6"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="bottom" secondItem="0vd-AO-Y5c" secondAttribute="bottom" id="2Bp-0X-9sQ"/>
+                        <constraint firstAttribute="trailing" secondItem="0vd-AO-Y5c" secondAttribute="trailing" constant="7" id="CSK-nH-ays"/>
+                        <constraint firstAttribute="height" constant="37" id="ZsR-OD-Pb2"/>
+                        <constraint firstItem="0vd-AO-Y5c" firstAttribute="top" secondItem="2GY-se-eFR" secondAttribute="top" id="p5h-F3-Emk"/>
+                    </constraints>
+                </view>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="PwK-wS-VWg">
+                    <rect key="frame" x="0.0" y="37" width="340" height="183"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                </view>
+            </subviews>
+            <color key="backgroundColor" red="0.94509803920000002" green="0.94901960780000005" blue="0.95686274510000002" alpha="1" colorSpace="calibratedRGB"/>
+            <constraints>
+                <constraint firstItem="PwK-wS-VWg" firstAttribute="leading" secondItem="Hbf-py-Mgk" secondAttribute="leading" id="01x-uf-Mhk"/>
+                <constraint firstAttribute="trailing" secondItem="PwK-wS-VWg" secondAttribute="trailing" id="5Fr-zU-pXb"/>
+                <constraint firstItem="PwK-wS-VWg" firstAttribute="top" secondItem="2GY-se-eFR" secondAttribute="bottom" id="GVc-wZ-5Ee"/>
+                <constraint firstItem="2GY-se-eFR" firstAttribute="top" secondItem="Hbf-py-Mgk" secondAttribute="top" id="OHB-lr-BI5"/>
+                <constraint firstItem="2GY-se-eFR" firstAttribute="leading" secondItem="Hbf-py-Mgk" secondAttribute="leading" id="aJM-I4-pcF"/>
+                <constraint firstAttribute="trailing" secondItem="2GY-se-eFR" secondAttribute="trailing" id="e5X-1f-fTS"/>
+                <constraint firstAttribute="bottom" secondItem="PwK-wS-VWg" secondAttribute="bottom" id="pgQ-LC-6pi"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="btn" destination="0vd-AO-Y5c" id="Uks-lB-joZ"/>
+                <outlet property="view_picker" destination="PwK-wS-VWg" id="MiT-cQ-8j1"/>
+            </connections>
+            <point key="canvasLocation" x="430" y="335"/>
+        </view>
+    </objects>
+</document>

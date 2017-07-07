@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11542" systemVersion="15F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11524"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="FGPostCameraView">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" id="h3L-Ls-y2u">
+                    <rect key="frame" x="0.0" y="134" width="320" height="228"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <subviews>
+                        <imageView userInteractionEnabled="NO" alpha="0.5" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="camera_focus.png" id="L6a-Zb-xt3">
+                            <rect key="frame" x="135" y="89" width="50" height="50"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        </imageView>
+                    </subviews>
+                    <color key="backgroundColor" red="0.078431372549019607" green="0.078431372549019607" blue="0.078431372549019607" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                </view>
+                <view contentMode="scaleToFill" id="6Xm-pw-gm6">
+                    <rect key="frame" x="120" y="453" width="160" height="38"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="DJI-8y-M5c">
+                            <rect key="frame" x="0.0" y="8" width="80" height="30"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <state key="normal" title="Camera"/>
+                            <connections>
+                                <action selector="buttonAction_switchCamera:" destination="iN0-l3-epB" eventType="touchUpInside" id="k2L-eS-GcB"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="M2L-WD-qMa">
+                            <rect key="frame" x="80" y="8" width="80" height="30"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <state key="normal" title="Sight"/>
+                            <connections>
+                                <action selector="buttonAction_switchCamera:" destination="iN0-l3-epB" eventType="touchUpInside" id="TIi-XN-PIX"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" red="0.33333333333333331" green="0.33333333333333331" blue="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                </view>
+                <view contentMode="scaleToFill" id="d0F-Fq-PBO">
+                    <rect key="frame" x="135" y="489" width="50" height="1"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                </view>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="flash.png" highlightedImage="flashclose.png" id="2YB-3W-yU8">
+                    <rect key="frame" x="10" y="11" width="20" height="18"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                </imageView>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="FrontCamera.png" id="aAe-nu-Jj0">
+                    <rect key="frame" x="290" y="11" width="20" height="18"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                </imageView>
+                <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" reversesTitleShadowWhenHighlighted="YES" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" id="hxU-nw-c4S">
+                    <rect key="frame" x="0.0" y="0.0" width="40" height="40"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <connections>
+                        <action selector="buttonAction_torch:" destination="iN0-l3-epB" eventType="touchUpInside" id="hby-jK-bQ1"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="eNr-NF-vQ2">
+                    <rect key="frame" x="280" y="0.0" width="40" height="40"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <connections>
+                        <action selector="buttonAction_revert:" destination="iN0-l3-epB" eventType="touchUpInside" id="RNT-gd-VbP"/>
+                    </connections>
+                </button>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="roll.png" id="H8v-hU-0S1">
+                    <rect key="frame" x="269" y="521" width="20" height="18"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                </imageView>
+                <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" id="MM5-lK-WQE">
+                    <rect key="frame" x="247" y="502" width="65" height="57"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="COH-4y-bzx">
+                    <rect key="frame" x="5" y="501" width="65" height="57"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                    <state key="normal" title="Cancel">
+                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                </button>
+                <view contentMode="scaleToFill" id="Nqb-ug-APv">
+                    <rect key="frame" x="0.0" y="412" width="320" height="2"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <color key="backgroundColor" red="0.090196078431372548" green="0.4392156862745098" blue="0.074509803921568626" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                </view>
+                <view alpha="0.20000000000000001" contentMode="scaleToFill" id="AKK-qn-Old">
+                    <rect key="frame" x="0.0" y="380" width="320" height="30"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                </view>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Tap and hold the shutter to record." textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="Wj1-x4-8vA">
+                    <rect key="frame" x="0.0" y="380" width="320" height="30"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="elR-C0-l3H">
+                    <rect key="frame" x="127" y="497" width="66" height="66"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <state key="normal" image="sightbtn.png"/>
+                    <state key="highlighted" image="sightbtn_presshold.png"/>
+                    <connections>
+                        <action selector="buttonAction_sightShoot:" destination="iN0-l3-epB" eventType="touchDown" id="2dT-iw-JgZ"/>
+                        <action selector="buttonAction_sightShoot_upInside:" destination="iN0-l3-epB" eventType="touchUpInside" id="DZW-F0-fHY"/>
+                        <action selector="buttonAction_sightShoot_upOutside:" destination="iN0-l3-epB" eventType="touchUpOutside" id="KnV-4r-Jkj"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" reversesTitleShadowWhenHighlighted="YES" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" id="eot-mJ-XFP">
+                    <rect key="frame" x="127" y="497" width="66" height="66"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <state key="normal" image="camera.png"/>
+                    <connections>
+                        <action selector="buttonAction_cameraShoot:" destination="iN0-l3-epB" eventType="touchUpInside" id="cFL-T7-Qgi"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="btn_album" destination="MM5-lK-WQE" id="Yt9-y9-2hQ"/>
+                <outlet property="btn_cameraShoot" destination="eot-mJ-XFP" id="3XG-77-ZZV"/>
+                <outlet property="btn_cancel" destination="COH-4y-bzx" id="NBT-qR-paZ"/>
+                <outlet property="btn_revert" destination="eNr-NF-vQ2" id="HTC-z6-4YB"/>
+                <outlet property="btn_sightShoot" destination="elR-C0-l3H" id="n61-Pb-VqO"/>
+                <outlet property="btn_switchToSight" destination="M2L-WD-qMa" id="Lp4-A8-gGM"/>
+                <outlet property="btn_swithToCamera" destination="DJI-8y-M5c" id="jjy-6V-IfE"/>
+                <outlet property="btn_torch" destination="hxU-nw-c4S" id="bjU-K2-zLg"/>
+                <outlet property="iv_album" destination="H8v-hU-0S1" id="fo0-5a-7Ko"/>
+                <outlet property="iv_focus" destination="L6a-Zb-xt3" id="n8L-ux-V1H"/>
+                <outlet property="iv_reverse" destination="aAe-nu-Jj0" id="KTg-xY-7tU"/>
+                <outlet property="iv_torch" destination="2YB-3W-yU8" id="Pzy-xr-hx9"/>
+                <outlet property="lb_tips" destination="Wj1-x4-8vA" id="bz9-Xx-kPd"/>
+                <outlet property="view_progress" destination="Nqb-ug-APv" id="tZL-vU-Nka"/>
+                <outlet property="view_separator" destination="d0F-Fq-PBO" id="Omd-Ze-U77"/>
+                <outlet property="view_swithCameraType" destination="6Xm-pw-gm6" id="SUZ-Yb-JTZ"/>
+                <outlet property="view_tipsBG" destination="AKK-qn-Old" id="91e-Gx-4Y3"/>
+                <outlet property="view_videoContainer" destination="h3L-Ls-y2u" id="Mga-A5-IJ4"/>
+            </connections>
+            <point key="canvasLocation" x="376" y="294"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="FrontCamera.png" width="39" height="36"/>
+        <image name="camera.png" width="126" height="126"/>
+        <image name="camera_focus.png" width="256" height="256"/>
+        <image name="flash.png" width="39" height="36"/>
+        <image name="flashclose.png" width="39" height="36"/>
+        <image name="roll.png" width="36" height="36"/>
+        <image name="sightbtn.png" width="126" height="126"/>
+        <image name="sightbtn_presshold.png" width="126" height="126"/>
+    </resources>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4_7.fullscreen"/>
+    </simulatedMetricsContainer>
+</document>

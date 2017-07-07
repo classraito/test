@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11542" systemVersion="15F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11524"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" reuseIdentifier="FGTrainingDetailTopVideoThumbnailCellView" rowHeight="268" id="vuf-d2-reM" customClass="FGTrainingDetailTopVideoThumbnailCellView">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="268"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="vuf-d2-reM" id="6N3-6L-fyj">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="267"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="slider3.jpg" id="6r0-fg-u42">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="264"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    </imageView>
+                    <view alpha="0.5" contentMode="scaleToFill" id="1JI-JX-1Od">
+                        <rect key="frame" x="0.0" y="206" width="320" height="58"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </view>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="like.png" highlightedImage="liked.png" id="JTx-Z6-XHE">
+                        <rect key="frame" x="42" y="212" width="22" height="22"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    </imageView>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="faverite.png" highlightedImage="faverited.png" id="7nM-tP-QuX">
+                        <rect key="frame" x="256" y="212" width="22" height="22"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    </imageView>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="step-by-step.png" id="vcD-he-uSB">
+                        <rect key="frame" x="149" y="212" width="22" height="22"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Step by step" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="uLx-hW-OTY">
+                        <rect key="frame" x="120" y="232" width="80" height="21"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                        <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Likes" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="U1F-Jf-KVB">
+                        <rect key="frame" x="13" y="232" width="80" height="21"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                        <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Favorite" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="29F-z2-K1c">
+                        <rect key="frame" x="227" y="232" width="80" height="21"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                        <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" id="ePy-cC-Ixn">
+                        <rect key="frame" x="214" y="205" width="106" height="60"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <connections>
+                            <action selector="buttonAction_favorite:" destination="vuf-d2-reM" eventType="touchUpInside" id="t7m-lm-DAm"/>
+                        </connections>
+                    </button>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" id="6cz-yF-F8p">
+                        <rect key="frame" x="0.0" y="205" width="106" height="60"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <connections>
+                            <action selector="buttonAction_likes:" destination="vuf-d2-reM" eventType="touchUpInside" id="yQC-cL-01a"/>
+                        </connections>
+                    </button>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" id="vcp-Vx-qwx">
+                        <rect key="frame" x="107" y="204" width="106" height="60"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <connections>
+                            <action selector="buttonAction_stepByStep:" destination="vuf-d2-reM" eventType="touchUpInside" id="14a-QM-aIQ"/>
+                        </connections>
+                    </button>
+                    <view contentMode="scaleToFill" id="goL-zJ-u6w" customClass="FGCircularWithProcessingButton">
+                        <rect key="frame" x="115" y="54" width="90" height="90"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </view>
+                </subviews>
+                <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+            </tableViewCellContentView>
+            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+            <connections>
+                <outlet property="btn_favorite" destination="ePy-cC-Ixn" id="cWc-0E-ewh"/>
+                <outlet property="btn_likes" destination="6cz-yF-F8p" id="NnX-0Q-vl7"/>
+                <outlet property="btn_stepByStep" destination="vcp-Vx-qwx" id="9ps-cs-hyx"/>
+                <outlet property="cpb_download" destination="goL-zJ-u6w" id="BV8-JO-Pky"/>
+                <outlet property="iv_favorite" destination="7nM-tP-QuX" id="oCV-nQ-Tjx"/>
+                <outlet property="iv_likes" destination="JTx-Z6-XHE" id="fSi-cD-pGQ"/>
+                <outlet property="iv_stepByStep" destination="vcD-he-uSB" id="jYO-hi-1aT"/>
+                <outlet property="iv_videoThumbnail" destination="6r0-fg-u42" id="bMD-wG-aqg"/>
+                <outlet property="lb_favorite" destination="29F-z2-K1c" id="tCz-Rv-uN1"/>
+                <outlet property="lb_likes" destination="U1F-Jf-KVB" id="nHE-al-qbC"/>
+                <outlet property="lb_stepByStep" destination="uLx-hW-OTY" id="CGP-za-4YR"/>
+                <outlet property="view_bottomPanelBG" destination="1JI-JX-1Od" id="dJc-xK-dkG"/>
+            </connections>
+            <point key="canvasLocation" x="153" y="-5"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="faverite.png" width="66" height="66"/>
+        <image name="faverited.png" width="66" height="66"/>
+        <image name="like.png" width="66" height="66"/>
+        <image name="liked.png" width="66" height="66"/>
+        <image name="slider3.jpg" width="1080" height="540"/>
+        <image name="step-by-step.png" width="66" height="66"/>
+    </resources>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4_7.fullscreen"/>
+    </simulatedMetricsContainer>
+</document>

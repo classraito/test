@@ -1,0 +1,575 @@
+/*
+ MyString.string.strings
+ CSP
+ 
+ Created by Ryan Gong on 16/8/23.
+ Copyright © 2016年 Fugumobile. All rights reserved.
+ */
+/***************分享******************/
+"I am giving you 50RMB off of your first personal training session with WEBOX. To enjoy it, please use my code" = "I am giving you 50RMB off of your first personal training session with WEBOX. To enjoy it, please use my code";
+"Happy training!" = "Happy training!";
+"ShareType_copylink" = "Copy";
+"ShareType_sms" = "SMS";
+"ShareType_0" = "Unknown";
+"ShareType_weibo" = "Sina Weibo";
+"ShareType_qzone" = "QZone";
+
+"ShareType_facebook" = "Facebook";
+"ShareType_twitter" = "Twitter";
+"ShareType_mail" = "Mail";
+"ShareType_wechatContacts" = "Wechat contacts";
+"ShareType_wechatMoments" = "Wechat moments";
+"ShareType_qq" = "QQ";
+"Do you want to share to other plateforms?" = "Do you want to share to other plateforms?";
+/***************公共******************/
+"Service unavailable" = "Service unavailable";
+"Now" = "Now";
+"Sign up! Get 50RMB off your first class" = "Sign up! Get 50RMB off your first class";
+"50RMB off Boxing training" = "50RMB off Boxing training";
+"Copy" = "Copy";
+"Submit" = "Submit";
+"No results!" = "No results!";
+"No workout logs yet!" = "No workout logs yet!";
+"No booking records yet!" = "No booking records yet!";
+"WeChat Timeline" = "WeChat Timeline";
+"WeChat Session" = "WeChat Session";
+"Cancel" = "Cancel";
+"CANCEL" = "CANCEL";
+"DONE" = "DONE";
+"Done" = "Done";
+"START" = "START";
+"Home" = "Home";
+"News" = "News";
+"Training" = "Training";
+"Post" = "Post";
+"Location" = "Location";
+"Location_Booking" = "Booking";
+"Profile" = "Profile";
+"Profile" = "Profile";
+"TRAINING" = "TRAINING";
+"POST" = "POST";
+"LOCATION" = "LOCATION";
+"PROFILE" = "PROFILE";
+"ALERT" = "ALERT";
+"km" = "公里";
+"m" = "米";
+"Share Sucess" = "Share Sucess";
+"Back" = "Back";
+"BACK" = "BACK";
+"The Device Not Support SMS" = "The Device Not Support SMS";
+"OK" = "OK";
+"YES" = "YES";
+"NO" = "NO";
+"NOT NOW" = "NOT NOW";
+"Please check your network connection!" = "Please check your network connection!";
+"To use this any many other great WeBox features and offers, please register or login by clicking the link below" = "To use this any many other great WeBox features and offers, please register or login by clicking the link below";
+"Register / Login" = "Register / Login";
+"Please register / login" = "Please register / login";
+"SHARE NOW" = "SHARE NOW";
+"SEE MY BADGES" = "SEE MY BADGES";
+"You won a badges!" = "You won a badges!";
+"Copied to clipboard" = "Copied to clipboard";
+/***************设置****************/
+"Clear caches?!" = "Clear caches?!";
+"Clear Images Cache" = "Clear Images Cache";
+"Clear Post Videoes Cache" = "Clear Post Videoes Cache";
+"Clear Download Training Video Files" = "Clear Download Training Video Files";
+
+"About Us" = "About Us";
+"Term & Condition" = "Terms & Conditions";
+"Q&A" = "Q&A";
+"Feedback" = "Feedback";
+"Notification" = "Notification";
+"Clear Cache" = "Clear Cache";
+"Tutorial" = "Tutorial";
+"Sign Out" = "Sign Out";
+"Do you want to log out now?" = "Do you want to log out now?";
+"Please email feedback to us at" = "Please email feedback to us at";
+
+/***************计时器****************/
+"ROUND TIMER" = "ROUND TIMER";
+"Round" = "Round";
+"Elapsed" = "Elapsed";
+"Remaining" = "Remaining";
+"STOPWATCH" = "STOPWATCH";
+"TIMER" = "TIMER";
+"PAUSE" = "PAUSE";
+"RESUME" = "RESUME";
+"RESET" = "RESET";
+"STOP" = "STOP";
+"LAP" = "LAP";
+"TIMER SETTING" = "TIMER SETTING";
+"hours" = "hours";
+"mins" = "mins";
+"min" = "min";
+"secs" = "secs";
+"Warm Up" = "Warm Up";
+"Number of Rounds"="Number of Rounds";
+"Round Time"="Round Time";
+"Warning Time"="Warning Time";
+"Rest Time"="Rest Time";
+"Cool Down"="Cool Down";
+"Timer Sound"="Timer Sound";
+"Vibration"="Vibration";
+"Lap" = "Lap";
+"DOWNLOAD" = "DOWNLOAD";
+"LOADING..." = "LOADING...";
+"UPLOADING" = "UPLOADING";
+/***************加载页*****************/
+"GET STARTED" = "GET STARTED";
+"Please fill in your nick name" = "Please fill in your nick name";
+/*选择水平页面*/
+"Please select the option that best describes your level of boxing ability" = "Please select the option that best describes your level of boxing ability";
+"Beginner" = "Beginner";
+"Intermediate" = "Intermediate";
+"Advanced" = "Advanced";
+
+/*开始第一个WORKOUT*/
+"Time to start your first WeBox Workout!" = "Time to start your first WeBox Workout!";
+"FEARLESS FOCUS" = "FEARLESS FOCUS";
+"MINS" = "MINS";
+"STARTED" = "STARTED";
+"Skip" = "Skip";
+
+/*登录界面*/
+"WeChat is not installed!" = "WeChat is not installed!";
+"Register / Login with Mobile" = "Register / Login with Mobile";
+"Enter mobile number here" = "Enter mobile number here";
+"SMS Code" = "SMS Code";
+"SKIP" = "SKIP";
+"Send to me" = "Send to me";
+"Send" = "Send";
+"or" = "or";
+"To register, please enter your chinese mobile phone number in the space provided." = "To register, please enter your chinese mobile phone number in the space provided.";
+"Verification Code must be 6 digit numbers" = "Verification Code must be 6 digit numbers";
+
+"Do you have other boxer invitation code?" = "Do you have other boxer invitation code?";
+"Key in to get discount voucher!\nand earn 50RMB" = "Key in to get discount voucher!\nand earn 50RMB";
+"input code here" = "input code here";
+
+"Thanks for registering with WeBox. You now have access to our amazing training program, tailored for you, plus our trainer booking engine!" =
+"Thanks for registering with WeBox. You now have access to our amazing training program, tailored for you, plus our trainer booking engine";
+
+"Share your personal code with friends and earn 50RMB credit per person that downloads and uses that personal trainer booking engine. Once they have finished their session, you will receive 50RMB credit in your account." =
+"Share your personal code with friends and earn 50RMB credit per person that downloads and uses that personal trainer booking engine. Once they have finished their session, you will receive 50RMB credit in your account.";
+
+"SHARE TO FRIENDS" = "SHARE TO FRIENDS";
+
+"Invitation code:" = "Invitation code:";
+"Please key in your nickname" = "Please key in your nickname";
+"input nickname here" = "input nickname here";
+/********************首页************************/
+
+/*搜索*/
+"Search" = "Search";
+"Search workout/trainer/news" = "Search workout/trainer/news";
+
+/*首页信息*/
+"FEATURED USERS" = "FEATURED USERS";
+"See more >" = "See more >";
+"TRENDING WORKOUTS" = "TRENDING WORKOUTS";
+"WORKOUTS" = "WORKOUTS";
+"TRAINERS" = "TRAINERS";
+"USERS" = "USERS";
+"NEWS FEEDS" = "NEWS FEEDS";
+"TOPICS" = "TOPICS";
+"NEWS" = "NEWS";
+"TRAINER PROFILE" = "TRAINER PROFILE";
+
+/*教练档案*/
+"Reviews" = "Reviews";
+"Introducation" = "Introducation";
+"QUALIFICATIONS" = "QUALIFICATIONS";
+"SPECIALTY" = "SPECIALTY";
+"LANGUAGE" = "LANGUAGE";
+
+
+/********************Training************************/
+"Watch the cool down video" = "Watch the cool down video";
+"GET READY!" = "GET READY!";
+"Take the fitness test!" = "Take the fitness test!";
+"It takes just a few minutes to assess your current fitness level." = "It takes just a few minutes to assess your current fitness level.";
+"Do you want to do fitness level test now?" = "Do you want to do fitness level test now?";
+"Intensity" = "Intensity";
+"Level" = "Level";
+"Duration" = "Duration";
+"Equipment_Needed" = "Equipment Needed";
+"Workout_Type" = "Workout Type";
+"Estimated_Calories_Burned" = "Estimated Calories Burned";
+
+"The VIP workout is comming soon..." = "The VIP workout is comming soon...";
+"FEATURED" = "FEATURED";
+"WORKOUT" = "WORKOUT";
+"Step by step" = "Step by step";
+"Likes" = "Likes";
+"SINGLE WITH EQUIPMENTS" = "SINGLE WITH EQUIPMENTS";
+"BAG" = "BAG";
+"HEAD MOVEMENT" = "HEAD MOVEMENT";
+"PAD" = "PAD";
+"PLAY" = "PLAY";
+"ALL VIDEOS" = "ALL VIDEOS";
+"FOOTWORK" = "FOOTWORK";
+"CONDITIONING" = "CONDITIONING";
+"HEAD MOVEMENT" = "HEAD MOVEMENT";
+"PAD" = "PAD";
+
+"Edit entire schedule" = "Edit entire schedule";
+"week" = "week";
+"SINGLE WITH\nEQUIPMENT" = "SINGLE WITH\nEQUIPMENT";
+"SINGLE WITH NO\nEQUIPMENT" = "SINGLE WITH NO\nEQUIPMENT";
+"INTERMEDIATE WITH\nEQUIPMENT" = "INTERMEDIATE WITH\nEQUIPMENT";
+"INTERMEDIATE WITH\nNO EQUIPMENT" = "INTERMEDIATE WITH\nNO EQUIPMENT";
+"ADVANCED WITH\nEQUIPMENT" = "ADVANCED WITH\nEQUIPMENT";
+"ADVANCED WITH\nNO EQUIPMENT" = "ADVANCED WITH\nNO EQUIPMENT";
+"PAIRED" = "PAIRED";
+
+"CANCEL PLAN" = "CANCEL PLAN";
+"DOWNLOAD ALL" = "DOWNLOAD ALL";
+"MY PLAN" = "MY PLAN";
+"More" = "More";
+"EDIT RECOVERY DAY" = "EDIT RECOVERY DAY";
+"Tennis" = "Tennis";
+"Badminton" = "Badminton";
+"Basketball" = "Basketball";
+"Running" = "Running";
+"Swimming" = "Swimming";
+"Soccer" = "Soccer";
+"Other" = "Other";
+"Add a workout" = "Add a workout";
+"Or add another activity" = "Or add another activity";
+"Start workout" = "Start workout";
+"RECOVERY DAY" = "RECOVERY DAY";
+"Recovery Day" = "Recovery Day";
+
+"Your level:" = "Your level:";
+"Equipment:" = "Equipment:";
+"Goal:" = "Goal:";
+"StartDate:" = "Start date:";
+"Week:" = "Week:";
+"Workout per week:" = "Workout per week:";
+"No Equipment" = "No Equipment";
+"With Equipment" = "With Equipment";
+
+"SET WORKOUT PLAN" = "SET WORKOUT PLAN";
+"Workout breakdown" = "Workout breakdown";
+"Watch the warm up video" = "Watch the warm up video";
+"Here we go!" = "Here we go!";
+"Don't forget\nto warm up!" = "Don't forget\nto warm up!";
+"Shake your phone\nto continue" = "Shake your phone\nto continue";
+"Shake your phone\nto pause" = "Shake your phone\nto pause";
+"CONGRATULATIONS!" = "CONGRATULATIONS!";
+"CALORIES BURNED!" = "CALORIES BURNED!";
+"Don’t forget\nto cool down" = "Don’t forget\nto cool down";
+"Cal" = "Cal";
+
+/********************Locations************************/
+"Confirm your package" = "Confirm your package";
+
+"Click next to select the number of classes you wish to take, then select the start date.Select the day of the week and time you wish to spread your multibookings over" = "Click next to select the number of classes you wish to take, then select the start date.Select the day of the week and time you wish to spread your multibookings over";
+
+"Select the day of the week and time you wish to spread your multibookings over" = "Select the day of the week and time you wish to spread your multibookings over";
+"Select start date for multi-booking" = "Select start date for multi-booking";
+"Every Monday at…" = "Every Monday at…";
+"Every Tuesday at…" = "Every Tuesday at…";
+"Every Wednesday at…" = "Every Wednesday at…";
+"Every Thursday at…" = "Every Thursday at…";
+"Every Friday at…" = "Every Friday at…";
+"Every Saturday at…" = "Every Saturday at…";
+"Every Sunday at…" = "Every Sunday at…";
+"Select the number of days in your multi-booking package:" = "Select the number of days in your multi-booking package:";
+
+
+"One session" = "One session";
+"multi session" = "multi session";
+"Rebook a trainer" = "Rebook a trainer";
+"Do you want to rebook one session for this trainer or rebook a multi session?" = "Do you want to rebook one session for this trainer or rebook a multi session?";
+"Number Of Times:" = "Number Of Times:";
+
+"Select Time" = "Select Time";
+"Mon" = "Mon";
+"Tues" = "Tues";
+"Wed" = "Wed";
+"Thur" = "Thur";
+"Fri" = "Fri";
+"Sat" = "Sat";
+"Sun" = "Sun";
+"Trainer can not book a trainer" = "Trainer can not book a trainer";
+"Searching" = "Searching";
+"No group yet!" = "No group yet!";
+"No GYM yet!" = "No GYM yet!";
+"You have't joined any group yet!" = "You have't joined any group yet!";
+"You haven't favorite a workout yet!" = "You haven't favorite a workout yet!";
+"PARTICIPANTS" = "PARTICIPANTS";
+"Buy a bundle" = "Buy a bundle";
+"Buy 10 sessions and get 1 session free!" = "Buy 10 sessions and get 1 session free!";
+"Buy 10 sessions and get 1 session free!" = "Buy 10 sessions and get 1 session free!";
+"Not right now" = "Not right now";
+"Are you sure you want to accept this?" = "Are you sure you want to accept this?";
+"You have less than 1 hour to get from one session to another." = "You have less than 1 hour to get from one session to another.";
+"Do you want to cancel the session?" = "Do you want to cancel the session?";
+"Bang!" = "Bang!";
+"Your booking has been confirmed. Get ready to sweat! You can view the details in ‘My Booking’." = "Your booking has been confirmed. Get ready to sweat! You can view the details in ‘My Booking’.";
+"DETAIL" = "DETAIL";
+"How was your session? Did you have a great workout?" = "How was your session? Did you have a great workout?";
+"WRITE FEEDBACK" = "WRITE FEEDBACK";
+"Please fill in the datas!" = "Please fill in the datas!";
+"GROUP DETAIL" = "GROUP DETAIL";
+"Group name" = "Group name";
+"GroupLocation" = "GroupLocation";
+"(Spots)Left" = "(Spots)Left";
+"Joined" = "Joined";
+"Organizer" = "Organizer";
+"Join Group" = "Join Group";
+"Are you sure you want to join the group?" = "Are you sure you want to join the group?";
+"MAP" = "MAP";
+"LIST" = "LIST";
+"JOIN A GROUP" = "JOIN A GROUP";
+"GYM DETAIL" = "GYM DETAIL";
+"TEL" = "TEL";
+"Are you sure?" = "Are you sure?";
+"Are you sure need to book now?" = "Are you sure need to book now?";
+"Are You sure you want leave this group?" = "Are You sure you want leave this group?";
+"Please, setup a mail account in your phone first." = "Please, setup a mail account in your phone first.";
+"CREATE\nA GROUP" = "CREATE\nA GROUP";
+"request to register gym" = "request to register gym";
+"FIND A GYM" = "FIND A GYM";
+"BOOK NOW" = "BOOK NOW";
+"FIND A TRAINER" = "FIND A TRAINER";
+"Please fill in booking date" = "Please fill in booking date";
+"Please fill in booking time" = "Please fill in booking time";
+"Please fill in booking location" = "Please fill in booking location";
+"Please fill in booking location detail" = "Please fill in booking location detail";
+"Do you want to book a trainer now?" = "Do you want to book a trainer now?";
+"JOINED\nGROUP" = "JOINED\nGROUP";
+"request to register class" = "request to register class";
+"See you at training!" = "See you at training!";
+"You can view group details by clicking “My Group” on the “Join a Group” page." = "You can view group details by clicking “My Group” on the “Join a Group” page.";
+"You left from this group" = "You left from this group";
+"Location Service only can be setting in your IOS -> settings" = "Location Service only can be setting in your IOS -> settings";
+"The app need use your location service,you can setting in your IOS -> settings" = "The app need use your location service,you can setting in your IOS -> settings";
+"CHECK IN" = "CHECK IN";
+"LEAVE" = "LEAVE";
+"UPCOMING" = "UPCOMING";
+"HISTORY" = "HISTORY";
+"MY GROUP" = "MY GROUP";
+"My Group" = "My Group";
+"Ouch! We’re sorry about this!" = "Ouch! We’re sorry about this!";
+"It looks like all our trainers are booked right now. You can send the same request again or cancel to try again later."="It looks like all our trainers are booked right now. You can send the same request again or cancel to try again later.";
+"We have a trainer ready for you. Confirm your single training session." = "We have a trainer ready for you. Confirm your single training session.";
+"SEND AGAIN" = "SEND AGAIN";
+"Create a group" = "Create a group";
+"please email to add your gym:" = "please email to add your gym:";
+"Request sent." = "Request sent.";
+"Hold tight. We’re waiting for a nearby trainer to accept your session." = "Hold tight. We’re waiting for a nearby trainer to accept your session.";
+"Cancel request" = "Cancel request";
+"CANCEL REQUEST" = "CANCEL REQUEST";
+"SELECT LOCATION" = "SELECT LOCATION";
+"FIND A GROUP\nSESSION" = "FIND A GROUP\nSESSION";
+"FIND A GYM" = "FIND A GYM";
+"FIND A TRAINER" = "FIND A TRAINER";
+"ACCEPT" = "ACCEPT";
+"Remaining time" = "Remaining time";
+"USE 1 BUNDLE SESSION" = "USE 1 BUNDLE SESSION";
+"Payment Success!" = "Payment Success!";
+"You’ve bought a 10-session bundle. You can redeem your sessions at any time!" = "You’ve bought a 10-session bundle. You can redeem your sessions at any time!";
+"Payment" = "Payment";
+"Transfer Confirmation"; = "Transfer Confirmation";
+"CONFIRM TO PAY" = "CONFIRM TO PAY";
+"Make life easy with Alipay!" = "Make life easy with Alipay!";
+"If you have a coupon or a friends discount user code please tick the box below." = "If you have a coupon or a friends discount user code please tick the box below.";
+"use invitation code" = "use invitation code";
+"use coupon" = "use coupon";
+"Make life easy with WeChat or Alipay!" = "Make life easy with WeChat or Alipay!";
+"PAY 1 SESSION" = "PAY 1 SESSION";
+"PAY" = "PAY";
+"SESSION" = "SESSION";
+"PAY BY BUNDLE" = "PAY BY BUNDLE";
+"Buy 10 SESSION & GET 1 GREE" = "Buy 10 SESSION & GET 1 GREE";
+"WRITE FEEDBACK" = "WRITE FEEDBACK";
+"Add a review" = "Add a review";
+"Share" = "Share";
+"you can not post an empty content." = "you can not post an empty content.";
+"SELECT LCOATION" = "SELECT LCOATION";
+"payment failed!" = "payment failed!";
+
+/********************Profile************************/
+"New Phone" = "New Phone";
+"EDIT PHONE NUMBER" = "EDIT PHONE NUMBER";
+"You can use this to book a trainer." = "You can use this to book a trainer.";
+"Invitation code discount" = "Invitation code discount";
+"Complete below data to keep track calories burned" = "Complete below data to keep track calories burned";
+"unlimited" = "unlimited";
+"You haven't saved any workout yet!" = "You haven't saved any workout yet!";
+"WRONG USERNAME" = "WRONG USERNAME";
+"SELECT NOTINALITY" = "SELECT NOTINALITY";
+"ADD FRIENDS" = "ADD FRIENDS";
+"Please authorize permission in Setting" = "Please authorize permission in Setting";
+"BOOKING HISTORY" = "BOOKING HISTORY";
+"BOOKING DETAIL" = "BOOKING DETAIL";
+"Time" = "Time";
+"Date" = "Date";
+"Other message" = "Other message";
+"Address" = "Location";
+"AddressDetial" = "AddressDetial";
+"Location detail" = "Location detail";
+"OtherMsg" = "OtherMsg";
+"DETAILS" = "DETAILS";
+"This user don't have contact info" = "This user don't have contact info";
+"FINISHED" = "FINISHED";
+"Do you want to take\nan after pic?" = "Do you want to take\nan after pic?";
+"You can save this in your fitness log and/or share it with friends!" = "You can save this in your fitness log and/or share it with friends!";
+"You’ve won a new fitness badge!" = "You’ve won a new fitness badge!";
+"SHARE" = "SHARE";
+"START TEST" = "START TEST";
+"Press screen when you finish your plank" = "Press screen when you finish your plank";
+"Badges" = "Badges";
+"USER PROFILE" = "USER PROFILE";
+"MY BOOKING" = "MY BOOKING";
+"My booking" = "My booking";
+"Workout log" = "Workout log";
+"SAVED WORKOUT" = "SAVED WORKOUT";
+"Saved workouts" = "Saved workouts";
+"Favorite" = "Favorite";
+"Fitness level test" = "Fitness level test";
+"Setting" = "Setting";
+"SETTING" = "SETTING";
+"MANAGE BOOKING" = "MANAGE BOOKING";
+"Manage booking" = "Manage booking";
+"PENDING" = "PENDING";
+"ACCEPTED" = "ACCEPTED";
+"HISTORY" = "HISTORY";
+"BUNDLE" = "BUNDLE";
+"Training Badges" = "Training Badges";
+"Hidden Badges" = "Hidden Badges";
+"My BADGES" = "My BADGES";
+"'s BADGES" = "'s BADGES";
+"My Badges" = "My Badges";
+"YOUR COUPON" = "YOUR COUPON";
+"Free" = "Free";
+"REBOOK" = "REBOOK";
+"REBOOK NOW" = "REBOOK NOW";
+"REBOOK TRAINER" = "REBOOK TRAINER";
+"FEEDBACK" = "FEEDBACK";
+"CONTACT" = "CONTACT";
+"TRAINER CALENDAR" = "TRAINER CALENDAR";
+"MY CALENDAR" = "MY CALENDAR";
+"Edit" = "Edit";
+"MY FOLLOWER" = "MY FOLLOWER";
+"UNFOLLOW" = "UNFOLLOW";
+"MY FOLLOW" = "MY FOLLOW";
+"My Details" = "My Details";
+"My Fitness" = "My Fitness";
+"Age" = "Age";
+"Gender" = "Gender";
+"Boxing Level" = "Boxing Level";
+"Goal" = "Goal";
+"Profile Picture" = "Profile Picture";
+"Notinality" = "Region";
+"Username" = "Username";
+"Phone Number" = "Phone Number";
+"Name" = "Name";
+"Weight(kg)" = "Weight(kg)";
+"Height(cm)" = "Height(cm)";
+"Height" = "Height";
+"Weight" = "Weight";
+"Gym" = "Gym";
+"Choose Image" = "Choose Image";
+"Please take a picture" = "Please take a picture";
+"Photos" = "Photos";
+"EDIT PROFILE" = "EDIT PROFILE";
+"FITNESS LEVEL TEST" = "FITNESS LEVEL TEST";
+"Push-ups" = "Push-ups";
+"Situps" = "Situps";
+"Squats" = "Squats";
+"Burpees" = "Burpees";
+"Plank" = "Plank";
+"How many push-ups\ndid you finish?" = "How many push-ups\ndid you finish?";
+"How many Situps\ndid you finish?" = "How many Situps\ndid you finish?";
+"How many Squats\ndid you finish?" = "How many Squats\ndid you finish?";
+"How many Burpees\ndid you finish?" = "How many Burpees\ndid you finish?";
+"Are you sure you finished your plank?" = "Are you sure you finished your plank?";
+"Are you sure you\nfinished your plank?" = "Are you sure you\nfinished your plank?";
+"SET ADDRESS" = "SET ADDRESS";
+"HOME ADDRESS" = "HOME ADDRESS";
+"COMPANY ADDRESS" = "COMPANY ADDRESS";
+"There are scheduled courses! \n can't close the day!" = "There are scheduled courses! \n can't close the day!";
+"WEEK" = "WEEK";
+"MONTH" = "MONTH";
+"TOTAL" = "TOTAL";
+"Calorias" = "Calories";
+"Calories Burned" = "Calories Burned";
+"WORKOUT LOG" = "WORKOUT LOG";
+"MINUTES" = "MINUTES";
+"CALORIA" = "CALORIE";
+"Female" = "Female";
+"Male" = "Male";
+"want to lose weight" = "want to lose weight";
+"want to get toned" = "want to get toned";
+"want to learn how to box" = "want to learn how to box";
+"undefined" = "undefined";
+"Log Out" = "Log Out";
+"How long did you last?" = "How long did you last?";
+
+/********************Post************************/
+"No post info yet!" = "No post info yet!";
+"Save To Photo Album" = "Save To Photo Album";
+"Filter" = "Filter";
+"Sticker" = "Sticker";
+"ALL USERS" = "ALL USERS";
+"FOLLOWING" = "FOLLOWING";
+"Follow" = "Follow";
+"FOLLOW" = "FOLLOW";
+"Follower" = "Follower";
+"   LIKES" = "   LIKES";
+"Write a comment" = "Write a comment";
+"years ago" = "years ago";
+"year ago" = "year ago";
+"months ago" = "months ago";
+"month ago" = "month ago";
+"days ago" = "days ago";
+"day ago" = "day ago";
+"hours ago" = "hours ago";
+"hour ago" = "hour ago";
+"minutes ago" = "minutes ago";
+"minute ago" = "minute ago";
+"just now" = "just now";
+"CAMERA" = "CAMERA";
+"EDIT PHOTO" = "EDIT PHOTO";
+"Next" = "Next";
+"NEXT" = "NEXT";
+"Rest" = "Rest";
+"Discard" = "Discard";
+"Add Sticker" = "Add Sticker";
+
+"PICK UP USER" = "PICK UP USER";
+"PICK UP TOPIC" = "PICK UP TOPIC";
+
+"•Illegal content" = "•Illegal content";
+"•Content violates Laws" = "•Content violates Laws";
+"•Violence or Porn" = "•Violence or Porn";
+"•Scam or false information" = "•Scam or false information";
+"•Harassment" = "•Harassment";
+"•Fake account" = "•Fake account";
+"•Other" = "•Other";
+"Report" = "Report";
+
+"Tap and hold to record" = "Tap and hold to record";
+"Camera" = "Camera";
+"Sight" = "Sight";
+"Record Finished." = "Record Finished.";
+"Pull up to cancel." = "Pull up to cancel.";
+"Relase to cancel." = "Relase to cancel.";
+"Comments" = "Comments";
+"COMMENT" = "COMMENT";
+"REPORT" = "REPORT";
+"DELETE" = "DELETE";
+
+"SHARE POST" = "SHARE POST";
+
+
+
+
+
+
+
+

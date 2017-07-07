@@ -1,0 +1,695 @@
+(
+{
+AudioStart = 6;
+AudioUrl = "http://brand.fugumobile.cn/CSP/audio/training/20.mp3";
+Duration = 20;
+FileSize = 2280314;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/20.png";
+Type = 1;
+VideoId = 20;
+VideoName = "\U57fa\U672c\U8df3\U8dc3";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/020_Basic_Skip_1080.mp4";
+},
+{
+AudioStart = 1;
+AudioUrl = "http://brand.fugumobile.cn/CSP/audio/training/20.mp3";
+Duration = 20;
+FileSize = 2280314;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/20.png";
+Type = 1;
+VideoId = 20;
+VideoName = "\U57fa\U672c\U8df3\U8dc3";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/020_Basic_Skip_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 20;
+FileSize = 2280314;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/20.png";
+Type = 1;
+VideoId = 20;
+VideoName = "\U57fa\U672c\U8df3\U8dc3";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/020_Basic_Skip_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 20;
+FileSize = 2280314;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/20.png";
+Type = 1;
+VideoId = 20;
+VideoName = "\U57fa\U672c\U8df3\U8dc3";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/020_Basic_Skip_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 20;
+FileSize = 2280314;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/20.png";
+Type = 1;
+VideoId = 20;
+VideoName = "\U57fa\U672c\U8df3\U8dc3";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/020_Basic_Skip_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "http://brand.fugumobile.cn/CSP/audio/training/20.mp3";
+Duration = 20;
+FileSize = 2280314;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/20.png";
+Type = 1;
+VideoId = 20;
+VideoName = "\U57fa\U672c\U8df3\U8dc3";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/020_Basic_Skip_1080.mp4";
+},
+{
+AudioStart = 5;
+AudioUrl = "http://brand.fugumobile.cn/CSP/audio/training/21.mp3";
+Duration = 18;
+FileSize = 2131048;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/21.png";
+Type = 1;
+VideoId = 21;
+VideoName = "\U901f\U5ea6\U8df3\U8dc3";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/021_Speed_Skip_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "http://brand.fugumobile.cn/CSP/audio/training/21.mp3";
+Duration = 18;
+FileSize = 2131048;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/21.png";
+Type = 1;
+VideoId = 21;
+VideoName = "\U901f\U5ea6\U8df3\U8dc3";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/021_Speed_Skip_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "http://brand.fugumobile.cn/CSP/audio/training/21.mp3";
+Duration = 18;
+FileSize = 2131048;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/21.png";
+Type = 1;
+VideoId = 21;
+VideoName = "\U901f\U5ea6\U8df3\U8dc3";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/021_Speed_Skip_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 18;
+FileSize = 2131048;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/21.png";
+Type = 1;
+VideoId = 21;
+VideoName = "\U901f\U5ea6\U8df3\U8dc3";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/021_Speed_Skip_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 18;
+FileSize = 2131048;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/21.png";
+Type = 1;
+VideoId = 21;
+VideoName = "\U901f\U5ea6\U8df3\U8dc3";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/021_Speed_Skip_1080.mp4";
+},
+{
+AudioStart = 1;
+AudioUrl = "";
+Duration = 18;
+FileSize = 2410314;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/22.png";
+Type = 1;
+VideoId = 22;
+VideoName = "\U526a\U5200\U8df3\U8dc3";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/022_Scissor_Skip_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 18;
+FileSize = 2410314;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/22.png";
+Type = 1;
+VideoId = 22;
+VideoName = "\U526a\U5200\U8df3\U8dc3";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/022_Scissor_Skip_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 18;
+FileSize = 2410314;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/22.png";
+Type = 1;
+VideoId = 22;
+VideoName = "\U526a\U5200\U8df3\U8dc3";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/022_Scissor_Skip_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 18;
+FileSize = 2410314;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/22.png";
+Type = 1;
+VideoId = 22;
+VideoName = "\U526a\U5200\U8df3\U8dc3";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/022_Scissor_Skip_1080.mp4";
+},
+{
+AudioStart = 1;
+AudioUrl = "http://brand.fugumobile.cn/CSP/audio/training/23.mp3";
+Duration = 18;
+FileSize = 2091422;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/23.png";
+Type = 1;
+VideoId = 23;
+VideoName = "\U5355\U817f\U8df3\U8dc3";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/023_Single_Leg_Skip_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 18;
+FileSize = 2091422;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/23.png";
+Type = 1;
+VideoId = 23;
+VideoName = "\U5355\U817f\U8df3\U8dc3";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/023_Single_Leg_Skip_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 18;
+FileSize = 2091422;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/23.png";
+Type = 1;
+VideoId = 23;
+VideoName = "\U5355\U817f\U8df3\U8dc3";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/023_Single_Leg_Skip_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 18;
+FileSize = 2091422;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/23.png";
+Type = 1;
+VideoId = 23;
+VideoName = "\U5355\U817f\U8df3\U8dc3";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/023_Single_Leg_Skip_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 18;
+FileSize = 2091422;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/23.png";
+Type = 1;
+VideoId = 23;
+VideoName = "\U5355\U817f\U8df3\U8dc3";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/023_Single_Leg_Skip_1080.mp4";
+},
+{
+AudioStart = 1;
+AudioUrl = "http://brand.fugumobile.cn/CSP/audio/training/24.mp3";
+Duration = 18;
+FileSize = 2762609;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/24.png";
+Type = 1;
+VideoId = 24;
+VideoName = "\U57fa\U672c\U6df7\U8df3";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/024_Basic_Shuffle_Skip_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 18;
+FileSize = 2762609;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/24.png";
+Type = 1;
+VideoId = 24;
+VideoName = "\U57fa\U672c\U6df7\U8df3";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/024_Basic_Shuffle_Skip_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 18;
+FileSize = 2762609;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/24.png";
+Type = 1;
+VideoId = 24;
+VideoName = "\U57fa\U672c\U6df7\U8df3";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/024_Basic_Shuffle_Skip_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 18;
+FileSize = 2762609;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/24.png";
+Type = 1;
+VideoId = 24;
+VideoName = "\U57fa\U672c\U6df7\U8df3";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/024_Basic_Shuffle_Skip_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 18;
+FileSize = 2762609;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/24.png";
+Type = 1;
+VideoId = 24;
+VideoName = "\U57fa\U672c\U6df7\U8df3";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/024_Basic_Shuffle_Skip_1080.mp4";
+},
+{
+AudioStart = 1;
+AudioUrl = "http://brand.fugumobile.cn/CSP/audio/training/25.mp3";
+Duration = 18;
+FileSize = 2205545;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/25.png";
+Type = 1;
+VideoId = 25;
+VideoName = "\U4fa7\U6447\U6446\U8df3\U8dc3";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/025_Side_Swing_Skip_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 18;
+FileSize = 2205545;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/25.png";
+Type = 1;
+VideoId = 25;
+VideoName = "\U4fa7\U6447\U6446\U8df3\U8dc3";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/025_Side_Swing_Skip_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 18;
+FileSize = 2205545;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/25.png";
+Type = 1;
+VideoId = 25;
+VideoName = "\U4fa7\U6447\U6446\U8df3\U8dc3";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/025_Side_Swing_Skip_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 18;
+FileSize = 2205545;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/25.png";
+Type = 1;
+VideoId = 25;
+VideoName = "\U4fa7\U6447\U6446\U8df3\U8dc3";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/025_Side_Swing_Skip_1080.mp4";
+},
+{
+AudioStart = 1;
+AudioUrl = "http://brand.fugumobile.cn/CSP/audio/training/088.mp3";
+Duration = 69;
+FileSize = 3883284;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/88.png";
+Type = 1;
+VideoId = 88;
+VideoName = "(1,2)(1,1,2) (1,2,1,2)";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/088-089-090_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 69;
+FileSize = 3883284;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/88.png";
+Type = 1;
+VideoId = 88;
+VideoName = "(1,2)(1,1,2) (1,2,1,2)";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/088-089-090_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 69;
+FileSize = 3883284;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/88.png";
+Type = 1;
+VideoId = 88;
+VideoName = "(1,2)(1,1,2) (1,2,1,2)";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/088-089-090_1080.mp4";
+},
+{
+AudioStart = 1;
+AudioUrl = "http://brand.fugumobile.cn/CSP/audio/training/91_96.mp3";
+Duration = 38;
+FileSize = 3171052;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/91.png";
+Type = 1;
+VideoId = 91;
+VideoName = "(1,2,S,2)(1,2,S,2,3)";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/091_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 38;
+FileSize = 3171052;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/91.png";
+Type = 1;
+VideoId = 91;
+VideoName = "(1,2,S,2)(1,2,S,2,3)";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/091_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 38;
+FileSize = 3171052;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/91.png";
+Type = 1;
+VideoId = 91;
+VideoName = "(1,2,S,2)(1,2,S,2,3)";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/091_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 38;
+FileSize = 3171052;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/91.png";
+Type = 1;
+VideoId = 91;
+VideoName = "(1,2,S,2)(1,2,S,2,3)";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/091_1080.mp4";
+},
+{
+AudioStart = 1;
+AudioUrl = "http://brand.fugumobile.cn/CSP/audio/training/104.mp3";
+Duration = 23;
+FileSize = 994829;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/104.png";
+Type = 1;
+VideoId = 104;
+VideoName = "\U9ad8\U89d2\U5ea6\U819d\U51fb 1, 2";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/104_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 23;
+FileSize = 994829;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/104.png";
+Type = 1;
+VideoId = 104;
+VideoName = "\U9ad8\U89d2\U5ea6\U819d\U51fb 1, 2";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/104_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 23;
+FileSize = 994829;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/104.png";
+Type = 1;
+VideoId = 104;
+VideoName = "\U9ad8\U89d2\U5ea6\U819d\U51fb 1, 2";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/104_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 23;
+FileSize = 994829;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/104.png";
+Type = 1;
+VideoId = 104;
+VideoName = "\U9ad8\U89d2\U5ea6\U819d\U51fb 1, 2";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/104_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 23;
+FileSize = 994829;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/104.png";
+Type = 1;
+VideoId = 104;
+VideoName = "\U9ad8\U89d2\U5ea6\U819d\U51fb 1, 2";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/104_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 23;
+FileSize = 994829;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/104.png";
+Type = 1;
+VideoId = 104;
+VideoName = "\U9ad8\U89d2\U5ea6\U819d\U51fb 1, 2";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/104_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 23;
+FileSize = 994829;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/104.png";
+Type = 1;
+VideoId = 104;
+VideoName = "\U9ad8\U89d2\U5ea6\U819d\U51fb 1, 2";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/104_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 23;
+FileSize = 994829;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/104.png";
+Type = 1;
+VideoId = 104;
+VideoName = "\U9ad8\U89d2\U5ea6\U819d\U51fb 1, 2";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/104_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 23;
+FileSize = 994829;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/104.png";
+Type = 1;
+VideoId = 104;
+VideoName = "\U9ad8\U89d2\U5ea6\U819d\U51fb 1, 2";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/104_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 23;
+FileSize = 994829;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/104.png";
+Type = 1;
+VideoId = 104;
+VideoName = "\U9ad8\U89d2\U5ea6\U819d\U51fb 1, 2";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/104_1080.mp4";
+},
+{
+AudioStart = 1;
+AudioUrl = "http://brand.fugumobile.cn/CSP/audio/training/105.mp3";
+Duration = 23;
+FileSize = 4927668;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/105.png";
+Type = 1;
+VideoId = 105;
+VideoName = "\U5411\U524d,\U5411\U540e";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/105_Forward,Back_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 23;
+FileSize = 4927668;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/105.png";
+Type = 1;
+VideoId = 105;
+VideoName = "\U5411\U524d,\U5411\U540e";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/105_Forward,Back_1080.mp4";
+},
+{
+AudioStart = 1;
+AudioUrl = "http://brand.fugumobile.cn/CSP/audio/training/106.mp3";
+Duration = 23;
+FileSize = 3265843;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/106.png";
+Type = 1;
+VideoId = 106;
+VideoName = "\U5de6,\U53f3";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/106_Left,Right_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 23;
+FileSize = 3265843;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/106.png";
+Type = 1;
+VideoId = 106;
+VideoName = "\U5de6,\U53f3";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/106_Left,Right_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 23;
+FileSize = 3265843;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/106.png";
+Type = 1;
+VideoId = 106;
+VideoName = "\U5de6,\U53f3";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/106_Left,Right_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 23;
+FileSize = 3265843;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/106.png";
+Type = 1;
+VideoId = 106;
+VideoName = "\U5de6,\U53f3";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/106_Left,Right_1080.mp4";
+},
+{
+AudioStart = 1;
+AudioUrl = "http://brand.fugumobile.cn/CSP/audio/training/107.mp3";
+Duration = 23;
+FileSize = 3076853;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/107.png";
+Type = 1;
+VideoId = 107;
+VideoName = "\U524d,\U540e,\U5de6,\U53f3";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/107_Forward,Back,Left_Right_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 23;
+FileSize = 3076853;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/107.png";
+Type = 1;
+VideoId = 107;
+VideoName = "\U524d,\U540e,\U5de6,\U53f3";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/107_Forward,Back,Left_Right_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 23;
+FileSize = 3076853;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/107.png";
+Type = 1;
+VideoId = 107;
+VideoName = "\U524d,\U540e,\U5de6,\U53f3";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/107_Forward,Back,Left_Right_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 23;
+FileSize = 3076853;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/107.png";
+Type = 1;
+VideoId = 107;
+VideoName = "\U524d,\U540e,\U5de6,\U53f3";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/107_Forward,Back,Left_Right_1080.mp4";
+},
+{
+AudioStart = 1;
+AudioUrl = "http://brand.fugumobile.cn/CSP/audio/training/108.mp3";
+Duration = 23;
+FileSize = 4748711;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/108.png";
+Type = 1;
+VideoId = 108;
+VideoName = "\U5411\U524d,\U51fa\U62f31,\U6536\U56de";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/108_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 23;
+FileSize = 4748711;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/108.png";
+Type = 1;
+VideoId = 108;
+VideoName = "\U5411\U524d,\U51fa\U62f31,\U6536\U56de";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/108_1080.mp4";
+},
+{
+AudioStart = 1;
+AudioUrl = "http://brand.fugumobile.cn/CSP/audio/training/109.mp3";
+Duration = 23;
+FileSize = 4811457;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/109.png";
+Type = 1;
+VideoId = 109;
+VideoName = "\U5411\U524d,\U51fa\U62f312,\U6536\U56de";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/109_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 23;
+FileSize = 4811457;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/109.png";
+Type = 1;
+VideoId = 109;
+VideoName = "\U5411\U524d,\U51fa\U62f312,\U6536\U56de";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/109_1080.mp4";
+},
+{
+AudioStart = 1;
+AudioUrl = "http://brand.fugumobile.cn/CSP/audio/training/110.mp3";
+Duration = 23;
+FileSize = 5366162;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/110.png";
+Type = 1;
+VideoId = 110;
+VideoName = "\U5411\U524d,\U51fa\U62f31,1,2,\U6536\U56de";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/110_1080.mp4";
+},
+{
+AudioStart = 0;
+AudioUrl = "";
+Duration = 23;
+FileSize = 5366162;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/110.png";
+Type = 1;
+VideoId = 110;
+VideoName = "\U5411\U524d,\U51fa\U62f31,1,2,\U6536\U56de";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/110_1080.mp4";
+},
+{
+AudioStart = 1;
+AudioUrl = "http://brand.fugumobile.cn/CSP/audio/training/111.mp3";
+Duration = 23;
+FileSize = 5421909;
+Thumbnail = "http://brand.fugumobile.cn/CSP/img/training/exerciseThumbnail/111.png";
+Type = 1;
+VideoId = 111;
+VideoName = "\U5411\U524d,\U51fa\U62f3,1,2,1,2\U6536\U56de";
+VideoUrl = "http://brand.fugumobile.cn/CSP/video/training/1080/111_1080.mp4";
+}
+)

@@ -1,0 +1,17 @@
+/* 
+  InfoPlist.strings
+  CSP
+
+  Created by JasonLu on 17/1/22.
+  Copyright © 2017年 Fugumobile. All rights reserved.
+*/
+"CFBundleDisplayName" = "白领拳击";
+NSCameraUsageDescription = "此App需要您的同意才能使用摄像设备";
+NSLocationAlwaysUsageDescription = "本应用需要使用你的定位信息，否则您将无法使用地图定位等相关的功能";
+NSLocationWhenInUseUsageDescription = "本应用需要使用你的定位信息，否则您将无法使用地图定位等相关的功能";
+NSLocationUsageDescription = "本应用需要使用你的定位信息，否则您将无法使用地图定位等相关的功能";
+NSMicrophoneUsageDescription = "此App需要您的同意才能使用麦克风";
+NSPhotoLibraryUsageDescription = "此App需要您的同意才能读取媒体资料库";
+kTCCServiceMediaLibrary = "此App需要您的同意才能读取音乐资料库";
+kTCCServiceMediaLibrary = "此App需要您的同意才能使用音乐播放器";
+NSContactsUsageDescription = "此App需要您的同意才能访问你的联系人";

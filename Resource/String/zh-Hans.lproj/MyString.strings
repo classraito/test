@@ -1,0 +1,613 @@
+/* 
+  MyString.string.strings
+  CSP
+
+  Created by Ryan Gong on 16/8/23.
+  Copyright © 2016年 Fugumobile. All rights reserved.
+*/
+/***************分享******************/
+"I am giving you 50RMB off of your first personal training session with WEBOX. To enjoy it, please use my code" = "在您第一次使用WEBOX私教训练课程时，我会赠送您50元人民币折扣券。如需使用，请使用我的优惠码";
+"Happy training!" = "祝您训练愉快！";
+"ShareType_copylink" = "拷贝";
+"ShareType_sms" = "短信";
+"ShareType_0" = "Unknown";
+"ShareType_weibo" = "微博";
+"ShareType_qzone" = "QQ空间";
+"ShareType_facebook" = "Facebook";
+"ShareType_twitter" = "Twitter";
+"ShareType_mail" = "邮件";
+"ShareType_wechatContacts" = "微信好友";
+"ShareType_wechatMoments" = "朋友圈";
+"ShareType_qq" = "QQ好友";
+"Do you want to share to other plateforms?" = "你想分享到其他平台吗?";
+/***************公共******************/
+"Service unavailable" = "服务不可用，请检查设置";
+"Now" = "现在";
+"Sign up! Get 50RMB off your first class" = "马上报名! 第一堂课程将获得50元折扣";
+"50RMB off Boxing training" = "拳击训练折扣50元人民币";
+"Copy" = "复制";
+"Submit" = "提交";
+"No results!" = "没有搜索结果!";
+"No workout logs yet!" = "没有训练日志!";
+"No booking records yet!" = "没有预约记录!";
+"WeChat Timeline" = "微信朋友圈";
+"WeChat Session" = "微信好友";
+"Cancel" = "取消";
+"CANCEL" = "取消";
+"DONE" = "完成";
+"Done" = "完成";
+"START" = "开始";
+"Home" = "主页";
+"News" = "新闻";
+"Training" = "训练";
+"Post" = "动态";
+"Location" = "方位";
+"Location_Booking" = "预订";
+"Profile" = "个人资料";
+"Profile" = "个人资料";
+"TRAINING" = "训练";
+"POST" = "发布";
+"LOCATION" = "位置";
+"PROFILE" = "我的";
+"ALERT" = "提示";
+"km" = "公里";
+"m" = "米";
+"Share Sucess" = "分享成功";
+"Back" = "返回";
+"BACK" = "返回";
+"The Device Not Support SMS" = "该设备不支持短信功能";
+"OK" = "确定";
+"YES" = "是";
+"NO" = "否";
+"NOT NOW" = "暂时不了";
+"Please check your network connection!" = "请检查您的网络连接!";
+"You have't login yet,want to registe/login now?" = "您现在还没有登录，想要现在就去注册/登录么?";
+"To use this any many other great WeBox features and offers, please register or login by clicking the link below" = "您现在还没有登录，想要现在就去注册/登录么?";
+"Register / Login" = "注册 / 登录";
+"Please register / login" = "请注册或登录";
+"Please register/login" = "提示";
+"SHARE NOW" = "现在分享";
+"SEE MY BADGES" = "查看我的徽章";
+"You won a badges!" = "你刚获得了一个徽章!";
+"Copied to clipboard" = "复制到剪切板";
+/***************设置****************/
+"Clear caches?!" = "清空缓存?!";
+"Clear Images Cache" = "清空图片缓存";
+"Clear Post Videoes Cache" = "清空动态视频缓存";
+"Clear Download Training Video Files" = "清空下载的训练视频文件";
+
+"About Us" = "关于我们";
+"Term & Condition" = "服务条款";
+"Q&A" = "常见问题";
+"Feedback" = "反馈";
+"Notification" = "通知";
+"Clear Cache" = "清空缓存";
+"Tutorial" = "新手教程";
+"Sign Out" = "退出账号";
+"Do you want to log out now?" = "是否现在退出账号?";
+"Please email feedback to us at" = "请发邮件至";
+
+/***************计时器****************/
+"ROUND TIMER" = "回合计时器";
+"Round" = "回合";
+"Elapsed" = "流逝时间";
+"Remaining" = "剩余时间";
+"STOPWATCH" = "秒表";
+"TIMER" = "计时器";
+"PAUSE" = "暂停";
+"RESUME" = "继续";
+"RESET" = "复位";
+"STOP" = "停止";
+"LAP" = "计次";
+"TIMER SETTING" = "计时器设置";
+"hours" = "小时";
+"min" = "分钟";
+"mins" = "分钟";
+"secs" = "秒钟";
+"Warm Up" = "热身";
+"Number of Rounds"="回合";
+"Round Time"="回合计时";
+"Warning Time"="警告时间";
+"Rest Time"="休息时间";
+"Cool Down"="冷却时间";
+"Timer Sound"="计时器音效";
+"Vibration"="震动";
+"Lap" = "计次";
+"DOWNLOAD" = "下载";
+"LOADING..." = "加载中...";
+"UPLOADING" = "正在上传文件";
+/***************加载页*****************/
+"GET STARTED" = "开始";
+"Please fill in your nick name" = "请填写您的昵称";
+/*选择水平页面*/
+"Please select the option that best describes your level of boxing ability" = "请选择最能准确描述你拳击水平的选项";
+"Beginner" = "初学者";
+"Intermediate" = "中级水平";
+"Advanced" = "高级水平";
+
+/*开始第一个WORKOUT*/
+"Time to start your first WeBox Workout!" = "开启你首次WeBox训练的时刻到了！";
+"FEARLESS FOCUS" = "无所畏惧集中精神";
+"MINS" = "分钟";
+"STARTED" = "开始";
+"Skip" = "跳过";
+
+/*登录界面*/
+"WeChat is not installed!" = "没有安装微信!";
+"Register / Login with Mobile" = "手机号注册 / 登录";
+"Enter mobile number here" = "输入你的手机号码";
+"SMS Code" = "短信验证码";
+"SKIP" = "跳过";
+"Send to me" = "发送验证码";
+"Send" = "发送";
+"or" = "或者";
+"To register, please enter your chinese mobile phone number in the space provided." = "请在相应的空白处输入你的中国手机号码来注册";
+"Verification Code must be 6 digit numbers" = "验证码必须要6位数字";
+
+"Do you have other boxer invitation code?" = "您有没有收到其他用户发送给你的邀请码?";
+"Key in to get discount voucher!\nand earn 50RMB" = "请在输入框中输入或粘贴您收到的邀请码兑换价值50元人名币的兑换券";
+"input code here" = "请在这里输入邀请码";
+
+"Thanks for registering with WeBox. You now have access to our amazing training program, tailored for you, plus our trainer booking engine!" =
+"感谢注册WeBox.现在你可以进入我们精彩的训练项目了，为你量身制定的哦，还有我们的教练预约系统！";
+
+"Share your personal code with friends and earn 50RMB credit per person that downloads and uses that personal trainer booking engine. Once they have finished their session, you will receive 50RMB credit in your account." =
+"和你的朋友分享你的个人邀请码就可以每人赢取50元人民币信用点数，可以用来下载并使用个人教练预约系统哦。一旦他们完成了课程，你的账号会收到50元人民币信用点。";
+
+"SHARE TO FRIENDS" = "分享给朋友";
+
+"Invitation code:" = "邀请码:";
+"Please key in your nickname" = "请输入你的昵称";
+"input nickname here" = "输入你的昵称";
+/********************首页************************/
+
+/*搜索*/
+"Search" = "搜索";
+"Search workout/trainer/news" = "搜索训练/教练/新闻";
+
+/*首页信息*/
+"FEATURED USERS" = "精选用户";
+"See more >" = "查看更多 >";
+"TRENDING WORKOUTS" = "热门训练";
+"WORKOUTS" = "训练";
+"TRAINERS" = "教练";
+"USERS" = "用户";
+"NEWS FEEDS" = "新闻";
+"TOPICS" = "话题";
+"NEWS" = "新闻";
+"TRAINER PROFILE" = "教练档案";
+
+/*教练档案*/
+"Reviews" = "评价";
+"Introducation" = "简介";
+"QUALIFICATIONS" = "资格证书";
+"SPECIALTY" = "专长";
+"LANGUAGE" = "语言";
+
+
+/********************Training************************/
+"Watch the cool down video" = "观看放松运动视频";
+"GET READY!" = "作好准备!";
+"Take the fitness test!" = "参加体能测试！";
+"It takes just a few minutes to assess your current fitness level." = "只需几分钟就能获取你目前的体能水平。";
+"Intensity" = "强度";
+"Level" = "水平";
+"Duration" = "持续时间";
+"Equipment_Needed" = "器材需求";
+"Workout_Type" = "训练类型";
+"Estimated_Calories_Burned" = "预估消耗的卡路里";
+"The VIP workout is comming soon..." = "暂时还没有VIP教程，敬请期待...";
+"FEATURED" = "精选";
+"WORKOUT" = "训练";
+"Step by step" = "训练分解";
+"Likes" = "赞";
+"SINGLE WITH EQUIPMENTS" = "单人使用器械";
+"BAG" = "沙袋";
+"HEAD MOVEMENT" = "HEAD MOVEMENT";
+"PAD" = "PAD";
+"PLAY" = "开始";
+"ALL VIDEOS" = "所有视频";
+"FOOTWORK" = "步法";
+"CONDITIONING" = "健身训练";
+"HEAD MOVEMENT" = "头部运动";
+"PAD" = "衬垫";
+
+"Edit entire schedule" = "编辑完整计划";
+"week" = "周";
+"SINGLE WITH\nEQUIPMENT" = "单人使用器械";
+"SINGLE WITH NO\nEQUIPMENT" = "单人不使用器械";
+"INTERMEDIATE WITH\nEQUIPMENT" = "中等难度的器械练习";
+"INTERMEDIATE WITH\nNO EQUIPMENT" = "中等难度的器械练习";
+"ADVANCED WITH\nEQUIPMENT" = "使用器械的进阶练习";
+"ADVANCED WITH\nNO EQUIPMENT" = "不使用器械的进阶练习";
+
+"PAIRED" = "配对练习";
+
+"CANCEL PLAN" = "取消计划";
+"DOWNLOAD ALL" = "下载所有视频";
+"MY PLAN" = "我的计划";
+"More" = "更多";
+"EDIT RECOVERY DAY" = "编辑你的恢复日";
+"Tennis" = "网球";
+"Badminton" = "羽毛球";
+"Basketball" = "篮球";
+"Running" = "跑步";
+"Swimming" = "游泳";
+"Soccer" = "足球";
+"Other" = "其他项目";
+"Add a workout" = "添加一个训练项";
+"Or add another activity" = "或者添加其他活动";
+"Start workout" = "开始训练";
+"RECOVERY DAY" = "恢复日";
+"Recovery Day" = "恢复日";
+
+"Your level:" = "你的水平";
+"Equipment:" = "装备";
+"Goal:" = "目标";
+"StartDate:" = "开始日期:";
+"Week:" = "周期数";
+"Workout per week:" = "一周训练天数";
+"No Equipment" = "没有装备";
+"With Equipment" = "有装备";
+
+"SET WORKOUT PLAN" = "创建你的训练计划";
+"Workout breakdown" = "训练分解";
+"Watch the warm up video" = "观看热身视频";
+"Here we go!" = "开始吧!";
+"Don't forget\nto warm up!" = "别忘记热身哦！";
+"Shake your phone\nto continue" = "摇一摇手机继续";
+"Shake your phone\nto pause" = "摇一摇手机暂停";
+"CONGRATULATIONS!" = "恭喜啦!";
+"CALORIES BURNED!" = "卡路里燃烧掉了!";
+"Don’t forget\nto cool down" = "别忘了缓和运动";
+
+
+/********************Locations************************/
+
+"Confirm your package" = "确认您的订单";
+"Click next to select the number of classes you wish to take, then select the start date.Select the day of the week and time you wish to spread your multibookings over" = "点击下一页选择开始日期，天数及训练时间段";
+"Select the day of the week and time you wish to spread your multibookings over" = "选择开始日期，天数及训练时间段";
+"Select start date for multi-booking" = "请选择预订多个课程的开始时间";
+"Every Monday at…" = "每周一...";
+"Every Tuesday at…" = "每周二...";
+"Every Wednesday at…" = "每周三...";
+"Every Thursday at…" = "每周四...";
+"Every Friday at…" = "每周五...";
+"Every Saturday at…" = "每周六...";
+"Every Sunday at…" = "每周日...";
+"Select the number of days in your multi-booking package:" = "请选择您需要预订的天数";
+
+
+"One session" = "一个课程";
+"multi session" = "多个课程";
+"Rebook a trainer" = "重新预订教练";
+"Do you want to rebook one session for this trainer or rebook a multi session?" = "你想要再次预约这个教练的课程么?";
+
+"Number Of Times:" = "循环次数:";
+"Select Time" = "选择时间";
+"Mon" = "周一";
+"Tues" = "周二";
+"Wed" = "周三";
+"Thur" = "周四";
+"Fri" = "周五";
+"Sat" = "周六";
+"Sun" = "周日";
+"Trainer can not book a trainer" = "教练不能预订另一个教练";
+"Searching" = "搜索中";
+"No group yet!" = "还没有小组";
+"No GYM yet!" = "还没有健身房";
+"You have't joined any group yet!" = "你还没有加入过任何一个小组呢!";
+"You haven't favorite a workout yet!" = "你还没有收藏任何一个课程呢!";
+"PARTICIPANTS" = "参与者";
+"Buy a bundle" = "购买课程卡";
+"Buy 10 sessions and get 1 session free!" = "购买10次课程卡获取一次免费课程！";
+"Redeem your sessions whenever you want." = "你可以随时在你想兑换的课程的时候兑换";
+"Not right now" = "暂时不了";
+"Are you sure you want to accept this?" = "你确定要接受这个吗？";
+"You have less than 1 hour to get from one session to another." = "从这节课到下节课，你只有不足1小时的时间";
+"Do you want to cancel the session?" = "你确定要取消这个么?";
+"Bang!" = "砰！";
+"Your booking has been confirmed. Get ready to sweat! You can view the details in ‘My Booking’." = "你的预约已经确认。准备好流汗吧！你可以在“我的预约”里查看详情。";
+"DETAIL" = "详情";
+"How was your session? Did you have a great workout?" = "你的课上得怎么样？训练有没有非常棒？";
+"WRITE FEEDBACK" = "写个反馈吧";
+"Please fill in the datas!" = "请完善您的资料";
+"GROUP DETAIL" = "小组详情";
+"Group name" = "小组名称";
+"GroupLocation" = "位置";
+"(Spots)Left" = "个剩余名额";
+"Joined" = "个参与者";
+"Organizer" = "发起人";
+"Join Group" = "加入";
+"Date" = "日期";
+"Are you sure you want to join the group?" = "你确定要加入这个小组么?";
+"MAP" = "地图";
+"LIST" = "列表";
+"JOIN A GROUP" = "加入一个小组课程";
+"GYM DETAIL" = "健身房详情";
+"TEL" = "电话";
+"Are you sure?" = "你确定么?";
+"Are you sure need to book now?" = "你确定现在要预订么";
+"Are You sure you want leave this group?" = "你确定要离开这个小组么?";
+"Please, setup a mail account in your phone first." = "请先确定您的设备上已经设置了邮箱账号";
+"CREATE\nA GROUP" = "创建一个\n小组课程";
+"request to register gym" = "请求注册一个健身房";
+"FIND A GYM" = "找个健身房";
+"BOOK NOW" = "马上预定";
+"FIND A TRAINER" = "找一个教练";
+"Please fill in booking date" = "请填写预订日期";
+"Please fill in booking time" = "请填写预订时间";
+"Please fill in booking location" = "请填写您的位置";
+"Please fill in booking location detail" = "请填写您的位置详细信息";
+"Do you want to book a trainer now?" = "你确定现在就要找个教练么?";
+"JOINED\nGROUP" = "已加入的小组";
+"request to register class" = "请求注册一个小组";
+"See you at training!" = "训练的时候见！";
+"You can view group details by clicking “My Group” on the “Join a Group” page." = "你可以在“加入小组”界面点击“我的小组”查看小组详情。";
+"You left from this group" = "你已经离开了这个小组";
+"Location Service only can be setting in your IOS -> settings" = "定位服务只能在系统设置中操作";
+"The app need use your location service,you can setting in your IOS -> settings" = "本应用需要使用你的定位信息，否则您将无法使用地图定位等相关的功能,您可以到设置中打开它";
+"CHECK IN" = "签到";
+"LEAVE" = "离开";
+"UPCOMING" = "预告";
+"HISTORY" = "历史";
+"MY GROUP" = "我的小组";
+"My Group" = "我的小组";
+"Ouch! We’re sorry about this!" = "哎呦！非常抱歉！";
+"It looks like all our trainers are booked right now. You can send the same request again or cancel to try again later."="目前看来我们所有的教练都被预定了。你可以再次发送相同的请求或者先取消，之后再试试看";
+"We have a trainer ready for you. Confirm your single training session." = "我们的教练已为你准备好。确认你的单人训练课程。";
+"SEND AGAIN" = "再次发送";
+"Create a group" = "创建一个小组课程";
+"please email to add your gym:" = "请发送Email以便注册一个健身房";
+"Request sent." = "请求已发送";
+"Hold tight. We’re waiting for a nearby trainer to accept your session." = "稍等哦，我们正等待附近的教练接受你的课程";
+"Cancel request" = "取消请求";
+"CANCEL REQUEST" = "取消请求";
+"SELECT LOCATION" = "选择位置";
+"FIND A GROUP\nSESSION" = "找个小组课";
+"FIND A GYM" = "找个健身房";
+"FIND A TRAINER" = "找一个教练";
+"ACCEPT" = "接受";
+"Remaining time" = "付款剩余时间";
+"USE 1 BUNDLE SESSION" = "使用一次你的课程卡";
+"Payment Success!" = "支付成功!";
+"You’ve bought a 10-session bundle. You can redeem your sessions at any time!" = "你已购买10次课程卡。你可以随时兑换你的课程！";
+"Payment" = "支付方式";
+"Transfer Confirmation" = "支付方式";
+"CONFIRM TO PAY" = "确认支付";
+"Make life easy with Alipay!" = "支付宝支付，让生活更简单！";
+"If you have a coupon or a friends discount user code please tick the box below." = "如果你有优惠券或者朋友折扣邀请码，请在下面打钩。";
+"use invitation code" = "使用兑换码";
+"use coupon" = "使用优惠券";
+"Make life easy with WeChat or Alipay!" = "微信支付或者支付宝，让生活更简单！";
+"PAY 1 SESSION" = "购买一次课程";
+"PAY" = "购买";
+"SESSION" = "次课程";
+"PAY BY BUNDLE" = "使用课程卡抵扣";
+"Buy 10 SESSION & GET 1 GREE" = "购买十次课程获取一次免费课！";
+"WRITE FEEDBACK" = "写个反馈";
+"Add a review" = "添加评论";
+"Share" = "发布";
+"you can not post an empty content." = "你不能发布一个空的内容";
+"SELECT LCOATION" = "选择地址";
+"payment failed!" = "支付失败";
+
+/********************Profile************************/
+"Cal" = "卡路里";
+"New Phone" = "新手机号码";
+"EDIT PHONE NUMBER" = "更改手机号码";
+"You can use this to book a trainer." = "你可以使用这个预约教练。";
+"Invitation code discount" = "邀请码优惠券";
+"Complete below data to keep track calories burned" = "请填写以下信息以便获得您燃烧的卡路里量";
+"unlimited" = "不限时";
+"You haven't saved any workout yet!" = "你还没有保存过任何一个课程呢!";
+"WRONG USERNAME" = "用户名不能为空";
+"SELECT NOTINALITY" = "选择国家";
+"ADD FRIENDS" = "添加好友";
+"Please authorize permission in Setting" = "请在设置中设置权限";
+"BOOKING HISTORY" = "预约历史";
+"BOOKING DETAIL" = "预约详情";
+"Time" = "时间";
+"Other message" = "其他留言";
+"Address" = "地理位置";
+"AddressDetial" = "位置详情";
+"Location detail" = "位置详情";
+"OtherMsg" = "留言";
+"DETAILS" = "详情";
+"This user don't have contact info" = "该用户没有联系电话";
+"FINISHED" = "完成";
+"Do you want to take\nan after pic?" = "你想来一张健身后的照片吗？";
+"You can save this in your fitness log and/or share it with friends!" = "你可以把这个保存在你的健身日志或者分享给你的朋友！";
+"You’ve won a new fitness badge!" = "你获得了一枚新的健身徽章！";
+"SHARE" = "分享";
+"START TEST" = "开始测试";
+"Press screen when you finish your plank" = "完成平板支撑后按住屏幕";
+"Badges" = "徽章";
+"USER PROFILE" = "用户档案";
+"MY BOOKING" = "我的预约";
+"My booking" = "我的预约";
+"Working log" = "训练日志";
+"SAVED WORKOUT" = "下载的课程";
+"Saved workouts" = "下载的课程";
+"Favorite" = "收藏";
+"Fitness level test" = "体能测试";
+"Setting" = "设置";
+"SETTING" = "设置";
+"MANAGE BOOKING" = "管理预约";
+"Manage booking" = "管理预约";
+"PENDING" = "待定";
+"ACCEPTED" = "已接受";
+"HISTORY" = "预约历史";
+"BUNDLE" = "课程卡";
+"Training Badges" = "训练徽章";
+"Hidden Badges" = "隐藏的徽章";
+"My BADGES" = "我的徽章";
+"'s BADGES" = "的徽章";
+"My badges" = "我的徽章";
+"YOUR COUPON" = "你的优惠券";
+"Free" = "免费";
+"REBOOK" = "再次预约";
+"REBOOK NOW" = "立即再次预约";
+"REBOOK TRAINER" = "再次预约该教练";
+"FEEDBACK" = "写个反馈";
+"CONTACT" = "联系";
+"TRAINER CALENDAR" = "教练的日历";
+"MY CALENDAR" = "我的日历";
+"Edit" = "编辑";
+"MY FOLLOWER" = "我的粉丝";
+"UNFOLLOW" = "取消关注";
+"MY FOLLOW" = "我的关注";
+"My Details" = "我的个人资料";
+"My Fitness" = "我的健身";
+"Age" = "年龄";
+"Gender" = "性别";
+"Boxing Level" = "拳击水平";
+"Goal" = "目标";
+"Profile Picture" = "头像";
+"Notinality" = "地区";
+"Username" = "用户名";
+"Phone Number" = "手机号码";
+"Name" = "名字";
+"Weight(kg)" = "体重(公斤)";
+"Height(cm)" = "身高(厘米)";
+"Height" = "身高";
+"Weight" = "体重";
+"Gym" = "健身房";
+"Choose Image" = "选择照片";
+"Please take a picture" = "请拍张照片再发布";
+"Photos" = "相册";
+"EDIT PROFILE" = "编辑个人资料";
+"FITNESS LEVEL TEST" = "体能测试";
+"Push-ups" = "俯卧撑";
+"Situps" = "仰卧起坐";
+"Squats" = "深蹲";
+"Burpees" = "波比";
+"Plank" = "平板支撑";
+"How many push-ups\ndid you finish?" = "您完成了多少次俯卧撑?";
+"How many Situps\ndid you finish?" = "您完成了多少次仰卧起坐?";
+"How many Squats\ndid you finish?" = "您完成了多少次深蹲?";
+"How many Burpees\ndid you finish?" = "您完成了多少次波比?";
+"Are you sure you finished your plank?" = "你确定你完成了平板支撑？";
+"Are you sure you\nfinished your plank?" = "你确定你完成了平板支撑？";
+"SET ADDRESS" = "设置地址";
+"HOME ADDRESS" = "家庭住址";
+"COMPANY ADDRESS" = "公司地址";
+"There are scheduled courses! \n can't close the day!" = "已有预定课程!\n不能关闭当天所有时间!";
+"WEEK" = "周计";
+"MONTH" = "月计";
+"TOTAL" = "总计";
+"Calorias" = "卡路里";
+"Calories Burned" = "卡路里燃烧掉了";
+"WORKOUT LOG" = "训练日志";
+"Workout log" = "训练日志";
+"MINUTES" = "分钟";
+"CALORIA" = "卡路里";
+"Female" = "女性";
+"Male" = "男性";
+"want to lose weight" = "想要减肥";
+"want to get toned" = "想得到缓和放松";
+"want to learn how to box" = "想要学习拳击运动";
+"undefined" = "未定义";
+"Log Out" = "登出";
+"How long did you last?" = "你持续了多长时间?";
+
+/********************Post************************/
+"No post info yet!" = "暂时还没有发布信息!";
+"Save To Photo Album" = "保存到相册";
+"Filter" = "滤镜";
+"Sticker" = "贴纸";
+"ALL USERS" = "所有用户";
+"FOLLOWING" = "关注";
+"Follow" = "关注";
+"FOLLOW" = "关注";
+"Follower" = "粉丝";
+"   LIKES" = " 个赞";
+"Write a comment" = "回复评论";
+"years ago" = "年前";
+"year ago" = "年前";
+"months ago" = "个月前";
+"month ago" = "个月前";
+"days ago" = "天前";
+"day ago" = "天前";
+"hours ago" = "小时前";
+"hour ago" = "小时前";
+"minutes ago" = "分钟前";
+"minute ago" = "分钟前";
+"just now" = "刚刚";
+"CAMERA" = "拍摄";
+"EDIT PHOTO" = "图片编辑";
+"Next" = "下一步";
+"NEXT" = "下一步";
+"Rest" = "休息";
+"Discard" = "放弃";
+"Add Sticker" = "添加贴纸";
+
+"PICK UP USER" = "选择用户";
+"PICK UP TOPIC" = "选择话题";
+
+"•Illegal content" = "•非法的内容";
+"•Content violates Laws" = "•内容违犯知识产权法律";
+"•Violence or Porn" = "•暴力或色情内容";
+"•Scam or false information" = "•诈欺或虚假信息";
+"•Harassment" = "•骚扰信息";
+"•Fake account" = "•虚假账号";
+"•Other" = "•其他";
+"Report" = "举报";
+
+"Tap and hold to record" = "点击并按住拍摄";
+"Camera" = "相机";
+"Sight" = "小视频";
+"Record Finished." = "录制完成";
+"Pull up to cancel." = "往上移动取消录制";
+"Relase to cancel." = "释放按钮取消录制";
+"Comments" = "评论";
+"COMMENT" = "评论";
+"REPORT" = "举报";
+"DELETE" = "删除";
+
+"SHARE POST" = "分享动态";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

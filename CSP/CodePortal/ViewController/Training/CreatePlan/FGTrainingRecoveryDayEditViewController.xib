@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11542" systemVersion="15F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11524"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="FGTrainingRecoveryDayEditViewController">
+            <connections>
+                <outlet property="btn_addWorkout" destination="lPy-D1-RHp" id="RNE-Zi-CdL"/>
+                <outlet property="btn_badminton" destination="teO-1u-bp4" id="83t-a7-Gvz"/>
+                <outlet property="btn_basketball" destination="zQr-mb-JtK" id="Cmr-TP-T8L"/>
+                <outlet property="btn_done" destination="Qi0-uc-x6R" id="SCJ-ja-IX4"/>
+                <outlet property="btn_other" destination="LT5-fR-mbR" id="zo8-Qg-OFp"/>
+                <outlet property="btn_running" destination="eCg-5V-VWQ" id="WEt-Zy-0Vk"/>
+                <outlet property="btn_soccer" destination="3RY-8v-Vw3" id="ZqW-Ae-OhB"/>
+                <outlet property="btn_swimming" destination="ogh-d0-eLY" id="ARa-ma-9yd"/>
+                <outlet property="btn_tennis" destination="bK2-Dd-bQq" id="7vk-rp-9Ny"/>
+                <outlet property="iv_badminton" destination="6yY-ui-Ufa" id="CLk-Bp-hbt"/>
+                <outlet property="iv_basketball" destination="qS7-90-nlP" id="LcX-bh-cCx"/>
+                <outlet property="iv_black_plus" destination="W93-ju-0mW" id="AF4-O1-2NF"/>
+                <outlet property="iv_other" destination="scV-b4-uaa" id="dLD-69-Vsz"/>
+                <outlet property="iv_running" destination="99W-BU-44d" id="gOF-9q-dkb"/>
+                <outlet property="iv_soccer" destination="pTF-h2-Zd2" id="omG-Mt-68y"/>
+                <outlet property="iv_swimming" destination="Fv4-i9-68l" id="jRK-3I-j5j"/>
+                <outlet property="iv_tennis" destination="ty2-Eb-GMw" id="Z5M-lH-ApO"/>
+                <outlet property="lb_addOtherChoose" destination="TH3-0F-JAd" id="46W-mh-nzo"/>
+                <outlet property="lb_badminton" destination="kwm-e0-BIo" id="OzG-zr-HDk"/>
+                <outlet property="lb_basketball" destination="xKL-GN-A0A" id="o1R-oO-nhg"/>
+                <outlet property="lb_chooseOther" destination="Sb4-4F-xRw" id="uh5-7O-UAm"/>
+                <outlet property="lb_other" destination="Q7O-VH-pCf" id="aZW-TK-zHJ"/>
+                <outlet property="lb_running" destination="KOC-FR-Qm8" id="BsW-12-fdV"/>
+                <outlet property="lb_soccer" destination="kA7-D4-3yW" id="eeJ-ak-d7H"/>
+                <outlet property="lb_swimming" destination="bZF-zh-rfB" id="tw4-IU-Fu9"/>
+                <outlet property="lb_tennis" destination="AYi-lJ-vbd" id="ddf-M7-4Nc"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+                <outlet property="view_addWorkoutBG" destination="IVe-L6-8Hc" id="eii-lO-f3l"/>
+                <outlet property="view_bg_badminton" destination="hiz-PR-gNf" id="pJS-hY-zUF"/>
+                <outlet property="view_bg_basketball" destination="0VC-bg-15L" id="jiU-oo-4UL"/>
+                <outlet property="view_bg_other" destination="uHi-r8-T8O" id="1Ly-BZ-Qee"/>
+                <outlet property="view_bg_running" destination="zKR-6S-kqK" id="RsX-iQ-tMw"/>
+                <outlet property="view_bg_soccer" destination="6Cr-Q8-QZJ" id="O3p-dx-cgV"/>
+                <outlet property="view_bg_swimming" destination="eKk-Wa-7m2" id="NoZ-iW-HV2"/>
+                <outlet property="view_bg_tennis" destination="IZG-1g-jWH" id="wnO-QV-tPz"/>
+                <outlet property="view_otherChooseBG" destination="yNe-G5-jsD" id="FB3-Py-Elp"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" misplaced="YES" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <subviews>
+                <view contentMode="scaleToFill" misplaced="YES" id="IVe-L6-8Hc">
+                    <rect key="frame" x="0.0" y="62" width="320" height="50"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Add a workout to do" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="TH3-0F-JAd">
+                            <rect key="frame" x="14" y="0.0" width="257" height="50"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="plus.png" id="W93-ju-0mW">
+                            <rect key="frame" x="285" y="14" width="22" height="22"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        </imageView>
+                        <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" id="lPy-D1-RHp">
+                            <rect key="frame" x="0.0" y="0.0" width="320" height="50"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <connections>
+                                <action selector="buttonAction_go2AddWorkout:" destination="-1" eventType="touchUpInside" id="C9d-18-cV6"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                </view>
+                <view contentMode="scaleToFill" misplaced="YES" id="yNe-G5-jsD">
+                    <rect key="frame" x="0.0" y="121" width="320" height="447"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" id="Qi0-uc-x6R">
+                            <rect key="frame" x="20" y="381" width="280" height="44"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" red="0.64705882349999999" green="0.0" blue="0.090196078430000007" alpha="1" colorSpace="calibratedRGB"/>
+                            <state key="normal" title="DONE"/>
+                            <connections>
+                                <action selector="buttonAction_done:" destination="-1" eventType="touchUpInside" id="HFX-Xn-ozn"/>
+                            </connections>
+                        </button>
+                        <view contentMode="scaleToFill" misplaced="YES" id="IZG-1g-jWH">
+                            <rect key="frame" x="16" y="56" width="66" height="66"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <subviews>
+                                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="tennis_green.png" highlightedImage="tennis.png" id="ty2-Eb-GMw">
+                                    <rect key="frame" x="16" y="8" width="33" height="33"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Tennis" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="AYi-lJ-vbd">
+                                    <rect key="frame" x="0.0" y="45" width="66" height="20"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                    <color key="textColor" red="0.16862745098039217" green="0.49803921568627452" blue="0.47843137254901963" alpha="1" colorSpace="calibratedRGB"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <button opaque="NO" tag="1" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" id="bK2-Dd-bQq">
+                                    <rect key="frame" x="0.0" y="0.0" width="66" height="66"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <connections>
+                                        <action selector="buttonAction_clickOtherSports:" destination="-1" eventType="touchUpInside" id="bgh-Va-PoZ"/>
+                                    </connections>
+                                </button>
+                            </subviews>
+                            <color key="backgroundColor" red="0.90588235294117647" green="0.92549019607843142" blue="0.93333333333333335" alpha="1" colorSpace="calibratedRGB"/>
+                        </view>
+                        <view contentMode="scaleToFill" misplaced="YES" id="hiz-PR-gNf">
+                            <rect key="frame" x="90" y="56" width="66" height="66"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <subviews>
+                                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="badmiton_green.png" highlightedImage="badmiton.png" id="6yY-ui-Ufa">
+                                    <rect key="frame" x="16" y="8" width="33" height="33"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Badminton" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="kwm-e0-BIo">
+                                    <rect key="frame" x="0.0" y="45" width="66" height="20"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                    <color key="textColor" red="0.16862745100000001" green="0.49803921569999998" blue="0.47843137250000001" alpha="1" colorSpace="calibratedRGB"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <button opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" id="teO-1u-bp4">
+                                    <rect key="frame" x="0.0" y="0.0" width="66" height="66"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <connections>
+                                        <action selector="buttonAction_clickOtherSports:" destination="-1" eventType="touchUpInside" id="9Tn-bB-IKa"/>
+                                    </connections>
+                                </button>
+                            </subviews>
+                            <color key="backgroundColor" red="0.90588235289999997" green="0.92549019610000005" blue="0.93333333330000001" alpha="1" colorSpace="calibratedRGB"/>
+                        </view>
+                        <view contentMode="scaleToFill" misplaced="YES" id="0VC-bg-15L">
+                            <rect key="frame" x="165" y="56" width="66" height="66"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <subviews>
+                                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="basketball_green.png" highlightedImage="basketball.png" id="qS7-90-nlP">
+                                    <rect key="frame" x="16" y="8" width="33" height="33"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Basketball" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="xKL-GN-A0A">
+                                    <rect key="frame" x="0.0" y="45" width="66" height="20"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                    <color key="textColor" red="0.16862745100000001" green="0.49803921569999998" blue="0.47843137250000001" alpha="1" colorSpace="calibratedRGB"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <button opaque="NO" tag="3" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" id="zQr-mb-JtK">
+                                    <rect key="frame" x="0.0" y="0.0" width="66" height="66"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <connections>
+                                        <action selector="buttonAction_clickOtherSports:" destination="-1" eventType="touchUpInside" id="Us7-FW-UR0"/>
+                                    </connections>
+                                </button>
+                            </subviews>
+                            <color key="backgroundColor" red="0.90588235289999997" green="0.92549019610000005" blue="0.93333333330000001" alpha="1" colorSpace="calibratedRGB"/>
+                        </view>
+                        <view contentMode="scaleToFill" misplaced="YES" id="zKR-6S-kqK">
+                            <rect key="frame" x="239" y="56" width="66" height="66"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <subviews>
+                                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="running_green.png" highlightedImage="running.png" id="99W-BU-44d">
+                                    <rect key="frame" x="16" y="8" width="33" height="33"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Running" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="KOC-FR-Qm8">
+                                    <rect key="frame" x="0.0" y="45" width="66" height="20"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                    <color key="textColor" red="0.16862745100000001" green="0.49803921569999998" blue="0.47843137250000001" alpha="1" colorSpace="calibratedRGB"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <button opaque="NO" tag="4" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" id="eCg-5V-VWQ">
+                                    <rect key="frame" x="0.0" y="0.0" width="66" height="66"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <connections>
+                                        <action selector="buttonAction_clickOtherSports:" destination="-1" eventType="touchUpInside" id="g3Q-zO-u7z"/>
+                                    </connections>
+                                </button>
+                            </subviews>
+                            <color key="backgroundColor" red="0.90588235289999997" green="0.92549019610000005" blue="0.93333333330000001" alpha="1" colorSpace="calibratedRGB"/>
+                        </view>
+                        <view contentMode="scaleToFill" misplaced="YES" id="eKk-Wa-7m2">
+                            <rect key="frame" x="16" y="130" width="66" height="66"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <subviews>
+                                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="swimming_green.png" highlightedImage="swimming.png" id="Fv4-i9-68l">
+                                    <rect key="frame" x="16" y="8" width="33" height="33"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Swimming" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="bZF-zh-rfB">
+                                    <rect key="frame" x="0.0" y="45" width="66" height="20"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                    <color key="textColor" red="0.16862745100000001" green="0.49803921569999998" blue="0.47843137250000001" alpha="1" colorSpace="calibratedRGB"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <button opaque="NO" tag="5" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" id="ogh-d0-eLY">
+                                    <rect key="frame" x="0.0" y="0.0" width="66" height="66"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <connections>
+                                        <action selector="buttonAction_clickOtherSports:" destination="-1" eventType="touchUpInside" id="AmE-bs-QHk"/>
+                                    </connections>
+                                </button>
+                            </subviews>
+                            <color key="backgroundColor" red="0.90588235289999997" green="0.92549019610000005" blue="0.93333333330000001" alpha="1" colorSpace="calibratedRGB"/>
+                        </view>
+                        <view contentMode="scaleToFill" misplaced="YES" id="6Cr-Q8-QZJ">
+                            <rect key="frame" x="90" y="130" width="66" height="66"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <subviews>
+                                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="soccer_green.png" highlightedImage="soccer.png" id="pTF-h2-Zd2">
+                                    <rect key="frame" x="16" y="8" width="33" height="33"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Soccer" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="kA7-D4-3yW">
+                                    <rect key="frame" x="0.0" y="45" width="66" height="20"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                    <color key="textColor" red="0.16862745100000001" green="0.49803921569999998" blue="0.47843137250000001" alpha="1" colorSpace="calibratedRGB"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <button opaque="NO" tag="6" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" id="3RY-8v-Vw3">
+                                    <rect key="frame" x="0.0" y="0.0" width="66" height="66"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <connections>
+                                        <action selector="buttonAction_clickOtherSports:" destination="-1" eventType="touchUpInside" id="blJ-6n-D4h"/>
+                                    </connections>
+                                </button>
+                            </subviews>
+                            <color key="backgroundColor" red="0.90588235289999997" green="0.92549019610000005" blue="0.93333333330000001" alpha="1" colorSpace="calibratedRGB"/>
+                        </view>
+                        <view contentMode="scaleToFill" misplaced="YES" id="uHi-r8-T8O">
+                            <rect key="frame" x="165" y="130" width="66" height="66"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <subviews>
+                                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="other_green.png" highlightedImage="other.png" id="scV-b4-uaa">
+                                    <rect key="frame" x="16" y="8" width="33" height="33"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                </imageView>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Other" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="Q7O-VH-pCf">
+                                    <rect key="frame" x="0.0" y="45" width="66" height="20"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                    <color key="textColor" red="0.16862745100000001" green="0.49803921569999998" blue="0.47843137250000001" alpha="1" colorSpace="calibratedRGB"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <button opaque="NO" tag="7" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" id="LT5-fR-mbR">
+                                    <rect key="frame" x="0.0" y="0.0" width="66" height="66"/>
+                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <connections>
+                                        <action selector="buttonAction_clickOtherSports:" destination="-1" eventType="touchUpInside" id="q5r-Ie-4jN"/>
+                                    </connections>
+                                </button>
+                            </subviews>
+                            <color key="backgroundColor" red="0.90588235289999997" green="0.92549019610000005" blue="0.93333333330000001" alpha="1" colorSpace="calibratedRGB"/>
+                        </view>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                </view>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Or choose other sports you do today" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="Sb4-4F-xRw">
+                    <rect key="frame" x="15" y="135" width="257" height="20"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" red="0.90588235294117647" green="0.92549019607843142" blue="0.93333333333333335" alpha="1" colorSpace="calibratedRGB"/>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="-77" y="-44"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="badmiton.png" width="106" height="106"/>
+        <image name="badmiton_green.png" width="106" height="106"/>
+        <image name="basketball.png" width="106" height="106"/>
+        <image name="basketball_green.png" width="106" height="106"/>
+        <image name="other.png" width="106" height="106"/>
+        <image name="other_green.png" width="106" height="106"/>
+        <image name="plus.png" width="66" height="66"/>
+        <image name="running.png" width="106" height="106"/>
+        <image name="running_green.png" width="106" height="106"/>
+        <image name="soccer.png" width="106" height="106"/>
+        <image name="soccer_green.png" width="106" height="106"/>
+        <image name="swimming.png" width="106" height="106"/>
+        <image name="swimming_green.png" width="106" height="106"/>
+        <image name="tennis.png" width="106" height="106"/>
+        <image name="tennis_green.png" width="106" height="106"/>
+    </resources>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4_7.fullscreen"/>
+    </simulatedMetricsContainer>
+</document>
